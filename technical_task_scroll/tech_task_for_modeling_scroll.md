@@ -28,13 +28,14 @@
 
 #### Планки   
 3.8 см   
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_plank.png" width="400"/> 
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_plank.png" width="400"/>   
 25 см   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_plank.png" width="400"/>
 
 #### Обрамление   
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_border.png" width="400"/>   
 0.85 см   
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_border.png" width="400"/>   
+
 
 ### Внешний вид
 Свиток должен быть вертикальный.   
@@ -59,8 +60,7 @@
 #### Дракон.
 Расположен дракон должен быть примерно как тут - но чуть меньше по размерам.   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/Dragon.jpg" width="400"/>   
-
-По виду дракон должен быть примерно таким.
+По виду дракон должен быть примерно таким.   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/Dragon_2.png" width="400"/>   
 
 #### Нужно сделать два вида пергамента внутри свитака в активной зоне.
