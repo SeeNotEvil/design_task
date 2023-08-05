@@ -71,4 +71,11 @@
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/white_pergament.png" width="400"/>
 
 ### Подставка
-На подставке стоит сам свиток в развернутом виде.
+На подставке стоит сам свиток в развернутом виде.   
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/stand_structure.png" width="400"/>   
+
+По стилистике подставка.   
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/stand.png" width="400"/>   
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/stand+2.png" width="400"/>   
+
+Размеры подставки подогнать под размеры свитка, в зависимости от дизайна.
