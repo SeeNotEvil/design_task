@@ -54,7 +54,7 @@
 В верхнем правом углу делаем дракона.   
 
 Пример:   
-<img src="https://github.com/SeeNotEvil/design_task/main/technical_task_book/technical_task_book/dragon.png" width="400"/> 
+<img src="https://github.com/SeeNotEvil/design_task/main/technical_task_book/dragon.png" width="400"/> 
 
 #### В нижнем левом углу сохраняем и детализируем цветы:  
 Цветы не должны перекрывать черную область внутри рамки. Черная область внутри рамки должна быть такого же размера и формы как на рисунке.    
