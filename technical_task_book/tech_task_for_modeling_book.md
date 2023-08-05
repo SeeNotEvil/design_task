@@ -34,9 +34,9 @@
 #### Толщина рамки   
 Толщину самой рамки можно подгонять.    
 Примерно он должен быть как на рисунке.    
-Главное что бы внутреняя часть рамким (черная область) была неизменна и не уменьшалась в размерах.       
-<img src="https://github.com/SeeNotEvil/design_task/blob//main/technical_task_book/size_border.png" width="400"/>
-3.2 см - 2.7 см - 6 см 
+Главное что бы внутреняя часть рамким (черная область) была неизменна и не уменьшалась в размерах.   
+<img src="https://github.com/SeeNotEvil/design_task/blob//main/technical_task_book/size_border.png" width="400"/>   
+3.2 см - 2.7 см - 6 см    
 
 ### Внешний вид   
 Обложка содержит в себе окошко обрамленное рамкой (см раздел Внутреняя ширина и высота рамки)    
@@ -49,7 +49,7 @@
 
 #### Рамка   
 Пример Рамка на книжке:   
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/full.png" width="400"/>
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/full.png" width="400"/>   
 Рамку делаем более детализированной. 
 В верхнем правом углу делаем дракона.   
 
