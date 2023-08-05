@@ -55,7 +55,7 @@
 По расцветке как 1-2-3, по рисунку как 4 и 5    
 Обрамление доллжно выглядеть примерно так же, в виде орнамента.   
 Наконечники на верхних и нижних планках примерно вот такие   
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_border_5.png" width="400"/>   
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_border.png" width="400"/>   
 
 #### Дракон.
 Расположен дракон должен быть примерно как тут - но чуть меньше по размерам.   
