@@ -75,3 +75,6 @@
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/stand_structure.png" width="400"/>   
 
 Размеры подставки подогнать под размеры свитка, в зависимости от дизайна.
+
+Доп рефы для стилистики подставки.
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/stand_2.png" width="400"/>   
