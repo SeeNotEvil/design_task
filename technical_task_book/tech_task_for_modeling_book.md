@@ -26,7 +26,7 @@
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/size_book_border_width.png" width="400"/>
 16.5 см    
 
-#### Глубина рамки
+#### Глубина рамки   
 Рамка выступает над обложкой.    
 Тут стоит подобрать размеры под дизайн.   
 Примерно 0.8 см    
