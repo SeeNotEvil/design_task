@@ -17,17 +17,33 @@
 ### Размеры
 1 - Верхняя планка - радиус 4 см - ширина 24 см
 2 - Верхняя планка - радиус 4 см - ширина 24 см
-3 - Активная область 20.3 cm - высота 27.1 cm. Она плотно прилегает к планкам сверху и снизу
+3 - Активная область 20.3 см - высота 28.4 см. Она плотно прилегает к планкам сверху и снизу
 4 - Обрамление 0.85 см по краям
 
-<img src="https://github.com/SeeNotEvil/live-ink-technical-task/blob/main/references/technical_task_scroll/size_plank.png" width="400"/>   
-<img src="https://github.com/SeeNotEvil/live-ink-technical-task/blob/main/references/technical_task_scroll/size_active_area.png" width="400"/>   
+#### Активная область
+<img src="https://github.com/SeeNotEvil/live-ink-technical-task/blob/main/references/technical_task_scroll/size_active_area.png" width="400"/>  
+28.4 см   
+<img src="https://github.com/SeeNotEvil/live-ink-technical-task/blob/main/references/technical_task_scroll/size_active_area_2.png" width="400"/>  
+20.3 см   
+
+#### Планки   
+<img src="https://github.com/SeeNotEvil/live-ink-technical-task/blob/main/references/technical_task_scroll/size_plank.png" width="400"/> 
+3.8 см     
+<img src="https://github.com/SeeNotEvil/live-ink-technical-task/blob/main/references/technical_task_scroll/size_plank.png" width="400"/>
+25 см   
+
+#### Обрамление   
 <img src="https://github.com/SeeNotEvil/live-ink-technical-task/blob/main/references/technical_task_scroll/size_border.png" width="400"/>   
+0.85 см   
 
 ### Внешний вид
 Свиток должен быть вертикальный.   
 На вверху верхней планки должна быть небольшая фигура дракона. Дракон не должен перекрывать активную зону свитка.   
 Свиток в открытом виде должен ставится на подставку.   
+
+#### Структура   
+<img src="https://github.com/SeeNotEvil/live-ink-technical-task/blob/main/references/technical_task_scroll/structure.png" width="400"/>   
+<img src="https://github.com/SeeNotEvil/live-ink-technical-task/blob/main/references/technical_task_scroll/structure_2.png" width="400"/>   
 
 #### Референс как примерно должна выглядеть верхнее и нижняя планка.
 <img src="https://github.com/SeeNotEvil/live-ink-technical-task/blob/main/references/technical_task_scroll/plank_scroll.png" width="400"/>   
@@ -35,7 +51,7 @@
 <img src="https://github.com/SeeNotEvil/live-ink-technical-task/blob/main/references/technical_task_scroll/plank_scroll_3.png" width="400"/>   
 <img src="https://github.com/SeeNotEvil/live-ink-technical-task/blob/main/references/technical_task_scroll/plank_scroll_4.png" width="400"/>   
 <img src="https://github.com/SeeNotEvil/live-ink-technical-task/blob/main/references/technical_task_scroll/plank_scroll_5.png" width="400"/>   
-По расцветке как 1-2-3 - по рисунку как 4 и 5    
+По расцветке как 1-2-3, по рисунку как 4 и 5    
 Обрамление доллжно выглядеть примерно так же, в виде орнамента.   
 Наконечники на верхних и нижних планках примерно вот такие   
 <img src="https://github.com/SeeNotEvil/live-ink-technical-task/blob/main/references/technical_task_scroll/plank_border_5.png" width="400"/>   
@@ -53,7 +69,6 @@
 
 2) Белый пергамент.
 <img src="https://github.com/SeeNotEvil/live-ink-technical-task/blob/main/references/technical_task_scroll/white_pergament.png" width="400"/>
-
 
 ### Подставка
 На подставке стоит сам свиток в развернутом виде.
