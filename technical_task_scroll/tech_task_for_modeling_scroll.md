@@ -15,22 +15,22 @@
 4 - Обрамление   
 
 ### Размеры
-1 - Верхняя планка - радиус 4 см - ширина 24 см
-2 - Верхняя планка - радиус 4 см - ширина 24 см
-3 - Активная область 20.3 см - высота 28.4 см. Она плотно прилегает к планкам сверху и снизу
-4 - Обрамление 0.85 см по краям
+1 - Верхняя планка - радиус 4 см - ширина 24 см   
+2 - Верхняя планка - радиус 4 см - ширина 24 см   
+3 - Активная область 20.3 см - высота 28.4 см. Она плотно прилегает к планкам сверху и снизу   
+4 - Обрамление 0.85 см по краям   
 
-#### Активная область
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_active_area.png" width="400"/>  
+#### Активная область   
 28.4 см   
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_active_area_2.png" width="400"/>  
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_active_area.png" width="400"/>  
 20.3 см   
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_active_area_2.png" width="400"/>  
 
 #### Планки   
+3.8 см   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_plank.png" width="400"/> 
-3.8 см     
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_plank.png" width="400"/>
 25 см   
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_plank.png" width="400"/>
 
 #### Обрамление   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_border.png" width="400"/>   
