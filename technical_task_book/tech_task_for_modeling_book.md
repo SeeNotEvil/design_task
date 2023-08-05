@@ -15,16 +15,17 @@
 4 - Ширина внутренней области рамки - 16.5 см   
 
 #### Размеры обложки 
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/size_book.png" width="400"/>    
 34.5 см на 26.5 см   
-
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/size_book.png" width="400"/>    
+  
 #### Внутрення высота рамки   
+26.7 см   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/size_book_border_height.png" width="400"/>
-26.7 см    
+
 
 #### Внутрення ширина рамки   
+16.5 см   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/size_book_border_width.png" width="400"/>
-16.5 см    
 
 #### Глубина рамки   
 Рамка выступает над обложкой.    
