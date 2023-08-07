@@ -61,12 +61,17 @@ https://www.artstation.com/artwork/04zYQe
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/structure_2.png" width="400"/>   
 
 #### Референс как примерно должна выглядеть верхнее и нижняя планка.
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_scroll.png" width="400"/>  
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_scroll_3.png" width="400"/>    
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_scroll_5.png" width="400"/> 
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_scroll_6.png" width="400"/>   
-Обрамление доллжно выглядеть примерно так же, в виде орнамента.   
-Наконечники на верхних и нижних планках примерно вот такие   
+Нужно соблюдая такую же цветовую гамму и стиль, задизайнить планку.   
+
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_scroll_3.png" width="400"/> 
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_scroll_4.png" width="400"/>     
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_scroll_5.png" width="400"/>     
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_scroll_6.png" width="400"/>     
+
+Обрамление доллжно выглядеть примерно так же, в виде орнамента.  
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/stand.png" width="400"/>   
+
+К наконечникам на верхних и нижних планках можно добавить помимо орнамента еще, вот такое обрамление драконье.
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_border.png" width="400"/>   
 
 #### Дракон.
