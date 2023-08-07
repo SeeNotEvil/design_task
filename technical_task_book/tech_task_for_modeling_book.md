@@ -73,7 +73,12 @@
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/book.png" width="400"/>
 
 #### Заменяем на книге круглую рамку на новую.   
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/merge_book_frame.png" width="400"/>
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/merge_book_frame.png" width="400"/>   
 
-#### Возможная степень детализации и мелкие детали.   
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/detail.png" width="400"/>
+#### Цвета на книжке, нужно сделать более темные и подходящие под магическую книгу
+ <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/color.png" width="400"/>   
+ <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/color_2.png" width="400"/>  
+
+#### Возможная степень детализации и фактура.   
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/detail_2.png" width="400"/>   
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/detail_3.png" width="400"/>   
