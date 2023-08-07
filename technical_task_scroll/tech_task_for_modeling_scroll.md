@@ -64,14 +64,12 @@ https://www.artstation.com/artwork/04zYQe
 Нужно соблюдая такую же цветовую гамму и стиль, задизайнить планку.   
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_scroll_3.png" width="400"/> 
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_scroll_4.png" width="400"/>     
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_scroll_5.png" width="400"/>     
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_scroll_6.png" width="400"/>     
 
 Обрамление доллжно выглядеть примерно так же, в виде орнамента.  
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/stand.png" width="400"/>   
 
-К наконечникам на верхних и нижних планках можно добавить помимо орнамента еще, вот такое обрамление драконье.
+К наконечникам на верхних и нижних планках можно добавить помимо орнамента еще, вот такое обрамление драконье.   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_border.png" width="400"/>   
 
 #### Дракон.
