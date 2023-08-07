@@ -1,20 +1,35 @@
 # Тз на дизайн и моделирование волшебного свитка с подставкой (Декоративный)
-Задача сделать дизайн и смоделировать подставку для декоративного свитка и сам свиток.   
-Смоделировать в формате vbx, вместе с текстурами. Должно открываться в blender и рандерится там.   
-Нужна возможность перегнать модель в unreal engine 5.   
-Уровень детализации высокий и уровень текстур тоже.   
+Задача разработать дизайн и смоделировать "волшебный свиток" и к нему подставку.
+
+По итогу должно получиться.   
+1) Модель с текстурами готовая к импорту в игровой движок (unreal engine 5)   
+2) Ограничения на полигоны нет.   
+3) High poly модель приветствуется.
+4) Высокий уровень детализации и текстур.   
+5) Сделать ряд скриншотов с отрандеренной моделью.   
+6) Предоставить оригинальные модели в vbx с текстурами.   
+
+Примеры.      
+https://www.artstation.com/artwork/DAGOJ0   
+https://www.artstation.com/artwork/lxgK65   
+https://www.artstation.com/artwork/EvLzB0   
+https://www.artstation.com/artwork/Jvb4rZ   
+https://www.artstation.com/artwork/kDl2aA   
+https://www.artstation.com/artwork/Oo2OWv   
+https://www.artstation.com/artwork/04zYQe   
 
 ### Структура
-Свиток - должен быть в размернутом виде.   
-Схематичное изображение   
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/sctructure.jpg" width="400"/>
-
+Схематичное состоит из следующих частей.   
 1 - Верхняя планка   
 2 - Нижняя планка   
-3 - Активная зона - часть на которой будут рисунки   
-4 - Обрамление   
+3 - Активная зона - часть на которой будут рисунки (ее ничего не должно перекрывать) 
+4 - Обрамление  
+
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/sctructure.jpg" width="400"/>   
 
 ### Размеры
+Размеры свитка должны быть в метрической системе.   
+
 1 - Верхняя планка - радиус 4 см - ширина 24 см   
 2 - Верхняя планка - радиус 4 см - ширина 24 см   
 3 - Активная область 20.3 см - высота 28.4 см. Она плотно прилегает к планкам сверху и снизу   
@@ -36,11 +51,10 @@
 0.85 см   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_border.png" width="400"/>   
 
-
-### Внешний вид
-Свиток должен быть вертикальный.   
+### Внешний вид   
+Свиток должен быть вертикальный, в развернутом виде. Активная зона у свитка прямая.     
 На вверху верхней планки должна быть небольшая фигура дракона. Дракон не должен перекрывать активную зону свитка.   
-Свиток в открытом виде должен ставится на подставку.   
+Свиток в открытом виде должен ставится на подставку.    
 
 #### Структура   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/structure.png" width="400"/>   
@@ -52,7 +66,6 @@
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_scroll_3.png" width="400"/>   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_scroll_4.png" width="400"/>   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_scroll_5.png" width="400"/>   
-По расцветке как 1-2-3, по рисунку как 4 и 5    
 Обрамление доллжно выглядеть примерно так же, в виде орнамента.   
 Наконечники на верхних и нижних планках примерно вот такие   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_border.png" width="400"/>   
