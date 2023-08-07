@@ -9,7 +9,7 @@
 5) Сделать ряд скриншотов с отрандеренной моделью.   
 6) Предоставить оригинальные модели в vbx с текстурами.   
 
-Примеры.      
+Примеры.   
 https://www.artstation.com/artwork/DAGOJ0   
 https://www.artstation.com/artwork/lxgK65   
 https://www.artstation.com/artwork/EvLzB0   
