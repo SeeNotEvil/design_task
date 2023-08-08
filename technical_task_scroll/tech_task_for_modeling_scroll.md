@@ -28,6 +28,7 @@ https://www.artstation.com/artwork/04zYQe
 3 - Активная зона - часть на которой будут рисунки (ее ничего не должно перекрывать)   
 4 - Обрамление   
 5 - Наконечники   
+
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/sctructure.jpg" width="400"/>   
 
 ### Размеры
@@ -41,23 +42,29 @@ https://www.artstation.com/artwork/04zYQe
 
 #### Активная область   
 28.4 см   
+
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_active_area.jpg" width="400"/>  
 20.3 см   
+
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_active_area_2.jpg" width="400"/>  
 
 #### Планки   
 3.8 см   
+
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_plank.jpg" width="400"/>   
-25 см   
+25 см  
+
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_plank_2.jpg" width="400"/>
 
 #### Обрамление   
 0.85 см   
+
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_border.jpg" width="400"/>   
 
 #### Наконечники
 Добавляем наконечники на все планки нижнию и верхнию, по краям справа и слева. Наконечники добавляются к каждой планке сверх ее длины (25см). То есть 25см + 3-5см на каждой из сторон.
 Длину наконечников подобрать по дизайну индивидуально.    
+
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_border_2.jpg" width="400"/>   
 
 ### Внешний вид   
@@ -65,7 +72,8 @@ https://www.artstation.com/artwork/04zYQe
 На вверху верхней планки должна быть небольшая фигура дракона. Дракон не должен перекрывать активную зону свитка.   
 Свиток в открытом виде должен ставится на подставку.    
 
-#### Структура   
+Общая структура свитка (без дракона)   
+
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/structure.jpg" width="400"/>   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/structure_2.jpg" width="400"/>   
 
@@ -73,19 +81,23 @@ https://www.artstation.com/artwork/04zYQe
 
 #### Планка (верхняя и нижняя)
 Нужно соблюдая такую же цветовую гамму и стиль, задизайнить планку.   
+
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_scroll_3.jpg" width="400"/> 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_scroll_6.jpg" width="400"/>     
 
 #### Обрамление    
 Обрамление доллжно выглядеть примерно так же, в виде орнамента.  
+
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/stand.jpg" width="400"/>   
 
 #### Наконечники  
 На планки помимо обрамления добавляем драконьи наконечники.   
+
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_border.jpg" width="400"/>  
 
-#### Дракон.
+#### Дракон.   
 Расположен дракон на верхней планке. Он не должен перекрывать активную зону свитка и быть не сильно громоздким.    
+
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/Dragon.jpg" width="400"/>   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/Dragon_3.jpg" width="400"/>   
 По цвету, дракон должен быть примерно таким.   
