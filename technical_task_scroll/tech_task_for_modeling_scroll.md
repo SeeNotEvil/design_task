@@ -10,7 +10,7 @@
 1) Ограничения на полигоны нету.   
 2) High poly модель приветствуется.   
 3) Высокий уровень детализации и текстур.    
-4) Импортируется в игровой движок unreal engine 5   
+4) Импортируется в игровой движок unreal engine 5.    
 
 #### Примеры аналогичных работ по уровню.  
 https://www.artstation.com/artwork/DAGOJ0   
@@ -80,7 +80,7 @@ https://www.artstation.com/artwork/04zYQe
 ### Референсы
 
 #### Планка (верхняя и нижняя)
-Нужно, соблюдая такую же цветовую гамму и стиль, задизайнить планку.   
+Нужно, соблюдая такую же цветовую гамму и стиль, задизайнить планку исходя из референсов.   
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_scroll_3.jpg" width="400"/> 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_scroll_6.jpg" width="400"/>     
