@@ -132,5 +132,5 @@ https://www.artstation.com/artwork/04zYQe
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/stand_structure.jpg" width="400"/>   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/stand_2.jpg" width="400"/>    
 
-### Размеры   
+#### Размеры   
 Размеры подставки подогнать под свиток, в зависимости от дизайна.   
