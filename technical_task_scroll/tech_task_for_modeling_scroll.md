@@ -79,12 +79,22 @@ https://www.artstation.com/artwork/04zYQe
 По форме и цвету, дракон должен быть примерно таким.   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/Dragon_2.png" width="400"/>   
 
-#### Нужно сделать два вида пергамента внутри свитака в активной зоне.
+#### Нужно сделать два вида пергамента внутри свитака в активной зоне.  
 1) Черный пергамент 
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/black_pergament.png" width="400"/>
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/black_pergament.png" width="400"/>   
+На черном пергаменте должны быть видны хорошо разноцветные цернила.   
+Там будут магические руны и т д.   
+
+Пример цветов для магических рун.
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/color.png" width="400"/>
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/.png" width="400"/>
 
 2) Белый пергамент.
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/white_pergament.png" width="400"/>
+На белом пергаменте должны быть видны хорошо черные цернила.   
+Там будут магические руны и т д.   
+
+На пергаментах ничего не изображаем, светки должны быть пустые.   
 
 ### Подставка
 На подставке стоит сам свиток в развернутом виде.   
