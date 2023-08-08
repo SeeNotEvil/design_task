@@ -69,8 +69,7 @@ https://www.artstation.com/artwork/04zYQe
 В верхнем правом углу делаем дракона.   
 
 Примеры   
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/dragon.jpg" width="400"/> 
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/color.jpg" width="400"/>   
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/dragon.jpg" width="400"/>   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/detail_3.jpg" width="400"/>   
 
 #### Цветы   
