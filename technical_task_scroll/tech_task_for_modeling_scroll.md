@@ -77,7 +77,7 @@ https://www.artstation.com/artwork/04zYQe
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/structure.jpg" width="400"/>   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/structure_2.jpg" width="400"/>   
 
-### Референсы
+### Референсы свитка
 
 #### Планка (верхняя и нижняя)
 Соблюдая такую же цветовую гамму и стиль, сделать дизайн, исходя из референсов.   
@@ -132,7 +132,7 @@ Cделать два вида пергамента внутри свитка, н
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/stand_structure.jpg" width="400"/>   
 
-#### Референсы    
+#### Референсы подставки   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/stand_structure.jpg" width="400"/>   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/stand_2.jpg" width="400"/>    
 
