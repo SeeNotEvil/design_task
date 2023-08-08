@@ -35,8 +35,8 @@ https://www.artstation.com/artwork/04zYQe
 ### Размеры
 Размеры должны быть в метрической системе.   
 
-1 - Верхняя планка - радиус 3.8 см, ширина 25 см.   
-2 - Нижняя планка - радиус 3.8 см, ширина 25 см.   
+1 - Верхняя планка - диаметр 3.8 см, ширина 25 см.   
+2 - Нижняя планка - диаметр 3.8 см, ширина 25 см.   
 3 - Активная область - ширина 20.3 см, высота 28.4 см. Она плотно прилегает к планкам сверху и снизу.   
 4 - Обрамление - ширина 0.85 см по краям.   
 5 - Наконечники - размеры подбираются индивидуально, около 3-6 см ширина каждого.         
@@ -51,7 +51,7 @@ https://www.artstation.com/artwork/04zYQe
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_active_area_2.jpg" width="400">  
 
 #### Планки   
-Радиус 3.8 см.   
+Диаметр 3.8 см.   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_plank.jpg" width="400"/>  
 
 Ширина 25 см.  
@@ -115,8 +115,8 @@ Cделать два вида пергамента внутри свитка, н
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/black_pergament.jpg" width="400"/>   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/black_pergament_2.jpg" width="400"/>   
 
-На черном пергаменте должны быть видны хорошо разноцветные цернила и он должен с ними сочетаться.    
-Пример цветов для разноцветных (магических) цернил.   
+На черном пергаменте должны хорошо быть видны разноцветные цернила и он должен с ними сочетаться.    
+Пример цветов разноцветных (магических) цернил.   
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/color.jpg" width="400"/>   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/color_2.jpg" width="400"/>   
