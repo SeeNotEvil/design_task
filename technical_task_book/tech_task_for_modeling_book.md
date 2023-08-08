@@ -40,7 +40,7 @@ https://www.artstation.com/artwork/04zYQe
 Ширина 16.5 см   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/size_book_border_width.jpg" width="400"/>
  
-Рамка выступает над обложкой и имеет свою внутреннию высоту.      
+#### Рамка выступает над обложкой и имеет свою внутреннию высоту.      
 Подбирается индивидуально, примерно 0.8 см   
 
 #### Толщина книжки   
