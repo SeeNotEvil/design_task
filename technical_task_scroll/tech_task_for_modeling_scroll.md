@@ -6,13 +6,13 @@
 2) Ряд скриншотов с отрандеренной моделью.   
 3) Предоставить оригинальные модели в vbx с текстурами.   
 
-Требования к модели   
+#### Требования к модели   
 1) Ограничения на полигоны нет.   
 2) High poly модель приветствуется.
 3) Высокий уровень детализации и текстур.  
 4) Импортируется в игровой движок unreal engine 5
 
-Примеры аналогичных работ по уровню.    
+#### Примеры аналогичных работ по уровню.    
 https://www.artstation.com/artwork/DAGOJ0   
 https://www.artstation.com/artwork/lxgK65   
 https://www.artstation.com/artwork/EvLzB0   
@@ -22,11 +22,11 @@ https://www.artstation.com/artwork/Oo2OWv
 https://www.artstation.com/artwork/04zYQe   
 
 ### Структура
-Схематичное состоит из следующих частей.   
+Схематично свиток состоит из следующих частей.   
 1 - Верхняя планка   
 2 - Нижняя планка   
-3 - Активная зона - часть на которой будут рисунки (ее ничего не должно перекрывать) 
-4 - Обрамление  
+3 - Активная зона - часть на которой будут рисунки (ее ничего не должно перекрывать)   
+4 - Обрамление   
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/sctructure.jpg" width="400"/>   
 
@@ -63,9 +63,9 @@ https://www.artstation.com/artwork/04zYQe
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/structure.jpg" width="400"/>   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/structure_2.jpg" width="400"/>   
 
-#### Референс как примерно должна выглядеть верхнее и нижняя планка.
+#### Референсы
 
-#### Планка   
+#### Планка (верхняя и нижняя)
 Нужно соблюдая такую же цветовую гамму и стиль, задизайнить планку.   
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_scroll_3.jpg" width="400"/> 
@@ -76,16 +76,16 @@ https://www.artstation.com/artwork/04zYQe
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/stand.jpg" width="400"/>   
 
 #### Наконечники  
-К наконечникам на верхних и нижних планках можно добавить помимо орнамента еще, вот такое обрамление драконье.   
+На планки помимо обрамления добавляем драконьи наконечники.   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_border.jpg" width="400"/>  
 
-Добавляем наконечники на все планки нижнию и верхнию, по краям справа и слева. Наконечники добавляются к каждой планке сверх ее длины (25см). То есть 25см + 3-4см на каждомй из сторон.
-Длину наконечников подобрать по дизайну индивидуально. Что бы смотрелось красиво.   
+Добавляем наконечники на все планки нижнию и верхнию, по краям справа и слева. Наконечники добавляются к каждой планке сверх ее длины (25см). То есть 25см + 3-4см на каждой из сторон.
+Длину наконечников подобрать по дизайну индивидуально. Что бы смотрелось красиво и органично.     
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_border_2.jpg" width="400"/>   
 
 #### Дракон.
-Расположен дракон должен быть примерно как тут. Он не должен перекрывать активную зону свитка. И быть не сильно громоздким.    
+Расположен дракон на верхней планке. Он не должен перекрывать активную зону свитка и быть не сильно громоздким.    
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/Dragon.jpg" width="400"/>   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/Dragon_3.jpg" width="400"/>   
 По цвету, дракон должен быть примерно таким.   
