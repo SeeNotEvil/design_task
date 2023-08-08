@@ -64,21 +64,25 @@ https://www.artstation.com/artwork/04zYQe
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/structure_2.jpg" width="400"/>   
 
 #### Референс как примерно должна выглядеть верхнее и нижняя планка.
+
+#### Планка   
 Нужно соблюдая такую же цветовую гамму и стиль, задизайнить планку.   
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_scroll_3.jpg" width="400"/> 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_scroll_6.jpg" width="400"/>     
 
+#### Обрамление    
 Обрамление доллжно выглядеть примерно так же, в виде орнамента.  
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/stand.jpg" width="400"/>   
 
+#### Наконечники  
 К наконечникам на верхних и нижних планках можно добавить помимо орнамента еще, вот такое обрамление драконье.   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_border.jpg" width="400"/>  
 
 Добавляем наконечники на все планки нижнию и верхнию, по краям справа и слева. Наконечники добавляются к каждой планке сверх ее длины (25см). То есть 25см + 3-4см на каждомй из сторон.
 Длину наконечников подобрать по дизайну индивидуально. Что бы смотрелось красиво.   
 
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_border_2.jpg" width="400"/>  
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_border_2.jpg" width="400"/>   
 
 #### Дракон.
 Расположен дракон должен быть примерно как тут. Он не должен перекрывать активную зону свитка. И быть не сильно громоздким.    
@@ -87,7 +91,8 @@ https://www.artstation.com/artwork/04zYQe
 По цвету, дракон должен быть примерно таким.   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/Dragon_2.jpg" width="400"/>   
 
-#### Нужно сделать два вида пергамента внутри свитака в активной зоне.  
+#### Пергамент   
+Нужно сделать два вида пергамента внутри свитака в активной зоне.  
 1) Черный пергамент   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/black_pergament.jpg" width="400"/>   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/black_pergament_2.jpg" width="400"/>   
@@ -109,7 +114,7 @@ https://www.artstation.com/artwork/04zYQe
 На подставке стоит сам свиток в развернутом виде.   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/stand_structure.jpg" width="400"/>   
 
-#### Стилистика   
+#### Стилистика подставки     
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/stand_structure.jpg" width="400"/>   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/stand_2.jpg" width="400"/>    
 
