@@ -54,10 +54,9 @@ https://www.artstation.com/artwork/04zYQe
 <img src="https://github.com/SeeNotEvil/design_task/blob//main/technical_task_book/size_border.jpg" width="400"/>   
 
 ### Внешний вид   
-Обложка содержит в себе окошко обрамленное рамкой (см раздел Внутреняя ширина и высота рамки)    
-Окошко не проходит насквозь.    
-Это просто черная облась на которой будут рисунки.    
-По умолчанию оставить черным цветом.   
+Обложка содержит в себе окошко обрамленное рамкой.    
+Окошко не проходит насквозь, это просто черная облась на которой будут рисунки.    
+По умолчанию оставить черным цветом.      
 
 #### Структура      
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/reference_struct.jpg" width="400"/>
@@ -85,7 +84,7 @@ https://www.artstation.com/artwork/04zYQe
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/book.jpg" width="400"/>
 
 #### Рамка   
-Заменяем круглую рамку на книжке, на текущую.    
+Заменяем круглую рамку на книжке, на ту что слева.      
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/merge_book_frame.jpg" width="400"/>   
 
 #### Текстура книги     

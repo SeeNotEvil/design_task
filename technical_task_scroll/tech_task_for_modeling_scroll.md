@@ -44,25 +44,20 @@ https://www.artstation.com/artwork/04zYQe
 
 #### Активная область   
 Высота 28.4 см   
-
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_active_area.jpg" width="400"/> 
 
 Ширина 20.3 см   
-
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_active_area_2.jpg" width="400"/>  
 
 #### Планки   
 Радиус 3.8 см   
-
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_plank.jpg" width="400"/>  
 
 Ширина 25 см  
-
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_plank_2.jpg" width="400"/>
 
 #### Обрамление   
 Ширина 0.85 см   
-
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_border.jpg" width="400"/>   
 
 #### Наконечники
