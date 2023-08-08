@@ -4,7 +4,7 @@
 ### По итогу должно получиться.   
 1) Модель с текстурами, готовая к импорту в игровой движок unreal engine 5.   
 2) Ряд скриншотов с отрандеренными моделями и текстурами. (5-6 штук), с разных ракурсов. Обазятельно фронт, перспектива.        
-3) Оригинальные модели в vbx с текстурами.     
+3) Оригинальные модели в vbx, с текстурами.     
 
 #### Требования к модели   
 1) Ограничения на полигоны нет.   
@@ -53,7 +53,8 @@ https://www.artstation.com/artwork/04zYQe
 #### Планки   
 Радиус 3.8 см   
 
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_plank.jpg" width="400"/>   
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_plank.jpg" width="400"/>  
+
 Ширина 25 см  
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_plank_2.jpg" width="400"/>
@@ -102,26 +103,31 @@ https://www.artstation.com/artwork/04zYQe
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/Dragon.jpg" width="400"/>   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/Dragon_3.jpg" width="400"/>   
-По цвету, дракон должен быть примерно таким.   
+
+По текстуре, дракон должен быть примерно таким.   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/Dragon_2.jpg" width="400"/>   
 
 #### Пергамент   
 Нужно сделать два вида пергамента внутри свитака в активной зоне.  
-1) Черный пергамент   
+##### Черный пергамент   
+
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/black_pergament.jpg" width="400"/>   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/black_pergament_2.jpg" width="400"/>   
+
 На черном пергаменте должны быть видны хорошо разноцветные цернила.   
 Там будут магические руны и т д.   
 
 Пример цветов для магических рун.   
+
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/color.jpg" width="400"/>   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/color_2.jpg" width="400"/>   
 
-2) Белый пергамент.
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/white_pergament.jpg" width="400"/>
+##### Белый пергамент.   
+
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/white_pergament.jpg" width="400"/>  
+
 На белом пергаменте должны быть видны хорошо черные цернила.   
 Там будут магические руны и т д.   
-
 На пергаментах ничего не изображаем, свитки должны быть пустые.   
 
 ### Подставка
