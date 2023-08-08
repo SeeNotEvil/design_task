@@ -33,7 +33,7 @@ https://www.artstation.com/artwork/04zYQe
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/sctructure.jpg" width="400"/>   
 
 ### Размеры
-Размеры свитка должны быть в метрической системе.   
+Размеры должны быть в метрической системе.   
 
 1 - Верхняя планка - радиус 3.8 см, ширина 25 см   
 2 - Нижняя планка - радиус 3.8 см, ширина 25 см   
