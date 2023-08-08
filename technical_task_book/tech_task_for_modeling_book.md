@@ -1,5 +1,5 @@
 # Техническое задание на дизайн и моделирование волшебной книжки     
-Задача разработать дизайн и смоделировать волшебную книжку с фэнтезийеной обложкой.
+Задача разработать дизайн и смоделировать волшебную книжку с фэнтезийиной обложкой.
 
 ### По итогу должно получиться.   
 1) Модель с текстурами, готовая к импорту в игровой движок unreal engine 5.   
@@ -47,8 +47,10 @@ https://www.artstation.com/artwork/04zYQe
 Подбирается индивидуально, примерно 4 - 6 см   
 
 #### Толщина рамки   
-Подбирается индивидуально, примерно 3.2 см - 2.7 см - 6 см      
-Главное что бы внутреняя область рамки была неизменна и не уменьшалась в размерах.   
+Подбирается индивидуально.    
+Главное что бы внутреняя область рамки была неизменна и не уменьшалась в размерах.  
+
+Примерно 3.2 см - 2.7 см - 6 см  
 <img src="https://github.com/SeeNotEvil/design_task/blob//main/technical_task_book/size_border.jpg" width="400"/>   
 
 ### Внешний вид   
@@ -62,7 +64,7 @@ https://www.artstation.com/artwork/04zYQe
 
 #### Рамка    
 Рамку делаем более детализированной.  
- 
+
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/full.jpg" width="400"/>   
 
 В верхнем правом углу делаем дракона.   
@@ -70,7 +72,9 @@ https://www.artstation.com/artwork/04zYQe
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/dragon.jpg" width="400"/> 
 
 #### Цветы   
-Цветы не должны перекрывать черную область внутри рамки. Черная область внутри рамки должна быть такого же размера и формы как на рисунке.    
+Цветы не должны перекрывать черную область внутри рамки. Она должна быть неизменна как тут.   
+
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/full.jpg" width="400"/>   
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/flowers_reference.jpg" width="400"/>   
 
