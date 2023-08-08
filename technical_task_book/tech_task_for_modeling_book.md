@@ -20,9 +20,7 @@ https://www.artstation.com/artwork/Jvb4rZ
 https://www.artstation.com/artwork/kDl2aA   
 https://www.artstation.com/artwork/Oo2OWv   
 https://www.artstation.com/artwork/04zYQe   
-
-### Общие размеры    
-
+ 
 ### Размеры
 Размеры должны быть в метрической системе.   
 
@@ -68,7 +66,10 @@ https://www.artstation.com/artwork/04zYQe
 
 В верхнем правом углу делаем дракона.   
 
+Примеры   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/dragon.jpg" width="400"/> 
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/color.jpg" width="400"/>   
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/detail_3.jpg" width="400"/>   
 
 #### Цветы   
 Цветы не должны перекрывать черную область внутри рамки.  
