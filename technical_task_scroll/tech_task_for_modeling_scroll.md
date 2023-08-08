@@ -40,19 +40,19 @@ https://www.artstation.com/artwork/04zYQe
 
 #### Активная область   
 28.4 см   
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_active_area.png" width="400"/>  
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_active_area.jpg" width="400"/>  
 20.3 см   
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_active_area_2.png" width="400"/>  
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_active_area_2.jpg" width="400"/>  
 
 #### Планки   
 3.8 см   
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_plank.png" width="400"/>   
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_plank.jpg" width="400"/>   
 25 см   
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_plank.png" width="400"/>
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_plank.jpg" width="400"/>
 
 #### Обрамление   
 0.85 см   
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_border.png" width="400"/>   
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_border.jpg" width="400"/>   
 
 ### Внешний вид   
 Свиток должен быть вертикальный, в развернутом виде. Активная зона у свитка прямая.     
@@ -60,41 +60,41 @@ https://www.artstation.com/artwork/04zYQe
 Свиток в открытом виде должен ставится на подставку.    
 
 #### Структура   
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/structure.png" width="400"/>   
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/structure_2.png" width="400"/>   
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/structure.jpg" width="400"/>   
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/structure_2.jpg" width="400"/>   
 
 #### Референс как примерно должна выглядеть верхнее и нижняя планка.
 Нужно соблюдая такую же цветовую гамму и стиль, задизайнить планку.   
 
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_scroll_3.png" width="400"/> 
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_scroll_6.png" width="400"/>     
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_scroll_3.jpg" width="400"/> 
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_scroll_6.jpg" width="400"/>     
 
 Обрамление доллжно выглядеть примерно так же, в виде орнамента.  
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/stand.png" width="400"/>   
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/stand.jpg" width="400"/>   
 
 К наконечникам на верхних и нижних планках можно добавить помимо орнамента еще, вот такое обрамление драконье.   
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_border.png" width="400"/>   
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_border.jpg" width="400"/>   
 
 #### Дракон.
 Расположен дракон должен быть примерно как тут. Он не должен перекрывать активную зону свитка. И быть не сильно громоздким.    
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/Dragon.jpg" width="400"/>   
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/Dragon_3.png" width="400"/>   
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/Dragon_3.jpg" width="400"/>   
 По цвету, дракон должен быть примерно таким.   
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/Dragon_2.png" width="400"/>   
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/Dragon_2.jpg" width="400"/>   
 
 #### Нужно сделать два вида пергамента внутри свитака в активной зоне.  
 1) Черный пергамент   
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/black_pergament.png" width="400"/>   
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/black_pergament_2.png" width="400"/>   
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/black_pergament.jpg" width="400"/>   
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/black_pergament_2.jpg" width="400"/>   
 На черном пергаменте должны быть видны хорошо разноцветные цернила.   
 Там будут магические руны и т д.   
 
 Пример цветов для магических рун.   
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/color.png" width="400"/>   
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/color_2.png" width="400"/>   
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/color.jpg" width="400"/>   
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/color_2.jpg" width="400"/>   
 
 2) Белый пергамент.
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/white_pergament.png" width="400"/>
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/white_pergament.jpg" width="400"/>
 На белом пергаменте должны быть видны хорошо черные цернила.   
 Там будут магические руны и т д.   
 
@@ -102,10 +102,10 @@ https://www.artstation.com/artwork/04zYQe
 
 ### Подставка
 На подставке стоит сам свиток в развернутом виде.   
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/stand_structure.png" width="400"/>   
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/stand_structure.jpg" width="400"/>   
 
 #### Стилистика   
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/stand_structure.png" width="400"/>   
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/stand_2.png" width="400"/>    
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/stand_structure.jpg" width="400"/>   
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/stand_2.jpg" width="400"/>    
 
 Размеры подставки подогнать под размеры свитка, в зависимости от дизайна.   
