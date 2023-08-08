@@ -86,9 +86,9 @@ https://www.artstation.com/artwork/04zYQe
 На черном пергаменте должны быть видны хорошо разноцветные цернила.   
 Там будут магические руны и т д.   
 
-Пример цветов для магических рун.
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/color.png" width="400"/>
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/.png" width="400"/>
+Пример цветов для магических рун.   
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/color.png" width="400"/>   
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/color_2.png" width="400"/>   
 
 2) Белый пергамент.
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/white_pergament.png" width="400"/>
