@@ -106,15 +106,16 @@ https://www.artstation.com/artwork/04zYQe
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/Dragon_2.jpg" width="400"/>   
 
 #### Пергамент   
-Нужно сделать два вида пергамента внутри свитка, на месте его активной зоны.  
-На пергаментах ничего не изображаем, свитки должны быть пустые.   
+Нужно сделать два вида пергамента внутри свитка, на месте его активной зоны. 
+Предоставить модели с обоими пергаментами.   
+На пергаментах ничего не должно быть изображенно, свитки должны быть пустые.   
 
 ##### Черный пергамент   
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/black_pergament.jpg" width="400"/>   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/black_pergament_2.jpg" width="400"/>   
 
-На черном пергаменте должны быть видны хорошо разноцветные цернила.   
+На черном пергаменте должны быть видны хорошо разноцветные цернила и с ними сочетаться.     
 Там будут магические руны и т д.   
 
 Пример цветов для магических рун.   
