@@ -71,10 +71,10 @@ https://www.artstation.com/artwork/04zYQe
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/dragon.jpg" width="400"/> 
 
 #### Цветы   
-Цветы не должны перекрывать черную область внутри рамки. Она должна быть неизменна как тут.   
-
+Цветы не должны перекрывать черную область внутри рамки.  
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/full.jpg" width="400"/>   
 
+Примеры   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/flowers_reference.jpg" width="400"/>   
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/flowers_reference_2.jpg" width="400"/>    
