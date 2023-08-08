@@ -108,16 +108,14 @@ https://www.artstation.com/artwork/04zYQe
 #### Пергамент   
 Cделать два вида пергамента внутри свитка, на месте его активной зоны. 
 Предоставить модели с обоими пергаментами.   
-Пергаменты должны быть пустые, но так же по желанию можно сделать версии с текстом разными чернилами.   
+Пергаменты должны быть пустые и с версиями с текстом разными чернилами.   
 
 ##### Черный пергамент   
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/black_pergament.jpg" width="400"/>   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/black_pergament_2.jpg" width="400"/>   
 
-На черном пергаменте должны быть видны хорошо разноцветные цернила и он должен с ними сочетаться.     
-Там будут магические руны и т д.   
-
+На черном пергаменте должны быть видны хорошо разноцветные цернила и он должен с ними сочетаться.    
 Пример цветов для разноцветных (магических) цернил.   
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/color.jpg" width="400"/>   
