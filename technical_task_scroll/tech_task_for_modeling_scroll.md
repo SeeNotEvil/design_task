@@ -28,7 +28,7 @@ https://www.artstation.com/artwork/04zYQe
 3 - Активная зона - часть на которой будут рисунки (ее ничего не должно перекрывать)   
 4 - Обрамление   
 5 - Наконечники   
-6 - Дракон  (о нем смотри ниже)
+6 - Дракон (о нем смотри ниже)
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/sctructure.jpg" width="400"/>   
 
