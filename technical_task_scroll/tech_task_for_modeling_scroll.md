@@ -75,12 +75,12 @@ https://www.artstation.com/artwork/04zYQe
 #### Дракон.
 Расположен дракон должен быть примерно как тут. Он не должен перекрывать активную зону свитка. И быть не сильно громоздким.    
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/Dragon.jpg" width="400"/>   
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/Dragon_3.jpg" width="400"/>   
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/Dragon_3.png" width="400"/>   
 По форме и цвету, дракон должен быть примерно таким.   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/Dragon_2.png" width="400"/>   
 
 #### Нужно сделать два вида пергамента внутри свитака в активной зоне.  
-1) Черный пергамент 
+1) Черный пергамент   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/black_pergament.png" width="400"/>   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/black_pergament_2.png" width="400"/>   
 На черном пергаменте должны быть видны хорошо разноцветные цернила.   

@@ -36,7 +36,6 @@ https://www.artstation.com/artwork/04zYQe
 26.7 см   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/size_book_border_height.png" width="400"/>
 
-
 #### Внутрення ширина рамки   
 16.5 см   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/size_book_border_width.png" width="400"/>
