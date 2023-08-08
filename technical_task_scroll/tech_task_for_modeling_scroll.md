@@ -73,7 +73,12 @@ https://www.artstation.com/artwork/04zYQe
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/stand.jpg" width="400"/>   
 
 К наконечникам на верхних и нижних планках можно добавить помимо орнамента еще, вот такое обрамление драконье.   
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_border.jpg" width="400"/>   
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_border.jpg" width="400"/>  
+
+Добавляем наконечники на все планки нижнию и верхнию, по краям справа и слева. Наконечники добавляются к каждой планке сверх ее длины (25см). То есть 25см + 3-4см на каждомй из сторон.
+Длину наконечников подобрать по дизайну индивидуально. Что бы смотрелось красиво.   
+
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_border_2.jpg" width="400"/>  
 
 #### Дракон.
 Расположен дракон должен быть примерно как тут. Он не должен перекрывать активную зону свитка. И быть не сильно громоздким.    
