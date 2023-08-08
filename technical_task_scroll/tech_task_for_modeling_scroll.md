@@ -115,7 +115,7 @@ https://www.artstation.com/artwork/04zYQe
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/black_pergament.jpg" width="400"/>   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/black_pergament_2.jpg" width="400"/>   
 
-На черном пергаменте должны быть видны хорошо разноцветные цернила и с ними сочетаться.     
+На черном пергаменте должны быть видны хорошо разноцветные цернила и он должен с ними сочетаться.     
 Там будут магические руны и т д.   
 
 Пример цветов для магических рун.   
