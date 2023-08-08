@@ -33,8 +33,8 @@ https://www.artstation.com/artwork/04zYQe
 ### Размеры
 Размеры свитка должны быть в метрической системе.   
 
-1 - Верхняя планка - радиус 4 см - ширина 24 см   
-2 - Верхняя планка - радиус 4 см - ширина 24 см   
+1 - Верхняя планка - радиус 4 см - ширина 25 см   
+2 - Верхняя планка - радиус 4 см - ширина 25 см   
 3 - Активная область 20.3 см - высота 28.4 см. Она плотно прилегает к планкам сверху и снизу   
 4 - Обрамление 0.85 см по краям   
 5 - Наконечники добавляются индивидуально (3-5 см) к планке   
@@ -49,7 +49,7 @@ https://www.artstation.com/artwork/04zYQe
 3.8 см   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_plank.jpg" width="400"/>   
 25 см   
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_plank.jpg" width="400"/>
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_plank_2.jpg" width="400"/>
 
 #### Обрамление   
 0.85 см   
@@ -69,7 +69,7 @@ https://www.artstation.com/artwork/04zYQe
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/structure.jpg" width="400"/>   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/structure_2.jpg" width="400"/>   
 
-#### Референсы
+### Референсы
 
 #### Планка (верхняя и нижняя)
 Нужно соблюдая такую же цветовую гамму и стиль, задизайнить планку.   
