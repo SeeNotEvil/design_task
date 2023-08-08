@@ -62,7 +62,7 @@ https://www.artstation.com/artwork/04zYQe
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_border.jpg" width="400"/>   
 
 #### Наконечники
-Наконечники находятся на всех планках, по краям справа и слева. Их ширина добавляется к каждой планке сверх ее ширины этой планки. То есть 25 см + 3-6 см с каждой из сторон.   
+Наконечники находятся на всех планках, по краям справа и слева. Их ширина добавляется к каждой планке сверх ее ширины, то есть 25 см + 3-6 см с каждой из сторон.   
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_border_2.jpg" width="400"/>   
 
