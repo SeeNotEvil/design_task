@@ -73,9 +73,10 @@ https://www.artstation.com/artwork/04zYQe
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_border.png" width="400"/>   
 
 #### Дракон.
-Расположен дракон должен быть примерно как тут - но чуть меньше по размерам.   
+Расположен дракон должен быть примерно как тут. Он не должен перекрывать активную зону свитка. И быть не сильно громоздким.    
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/Dragon.jpg" width="400"/>   
-По виду дракон должен быть примерно таким.   
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/Dragon_3.jpg" width="400"/>   
+По форме и цвету, дракон должен быть примерно таким.   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/Dragon_2.png" width="400"/>   
 
 #### Нужно сделать два вида пергамента внутри свитака в активной зоне.
