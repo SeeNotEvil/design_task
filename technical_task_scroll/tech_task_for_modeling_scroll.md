@@ -79,7 +79,7 @@ https://www.artstation.com/artwork/04zYQe
 ### Референсы
 
 #### Планка (верхняя и нижняя)
-Нужно соблюдая такую же цветовую гамму и стиль, задизайнить планку.   
+Нужно, соблюдая такую же цветовую гамму и стиль, задизайнить планку.   
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_scroll_3.jpg" width="400"/> 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_scroll_6.jpg" width="400"/>     
@@ -128,7 +128,8 @@ https://www.artstation.com/artwork/04zYQe
 На белом пергаменте должны хорошо быть видны черные цернила.      
 
 ### Подставка
-На подставке стоит свиток в развернутом виде.   
+Свиток в развернутом виде ставится на подставку.   
+
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/stand_structure.jpg" width="400"/>   
 
 #### Референсы    
