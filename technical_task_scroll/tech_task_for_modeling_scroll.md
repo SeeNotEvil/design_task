@@ -1,7 +1,8 @@
 # Техническое задание на дизайн и моделирование волшебного свитка с подставкой
 Задача разработать дизайн и смоделировать "волшебный свиток" вместе с "подставкой" под него.   
 
-### По итогу должно получиться.   
+## Требования   
+#### По итогу должно получиться.   
 1) Модель с текстурами, готовая к импорту в игровой движок unreal engine 5.   
 2) Ряд скриншотов с отрандеренными моделями и текстурами, 5-6 штук, с разных ракурсов. Обязательно фронтальное изображение и перспектива.        
 3) Оригинальные модели в vbx, с текстурами.     
@@ -21,7 +22,7 @@ https://www.artstation.com/artwork/kDl2aA
 https://www.artstation.com/artwork/Oo2OWv   
 https://www.artstation.com/artwork/04zYQe   
 
-### Структура
+## Структура и размеры   
 Схематично свиток состоит из следующих частей.   
 1 - Верхняя планка.   
 2 - Нижняя планка.   
@@ -32,7 +33,7 @@ https://www.artstation.com/artwork/04zYQe
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/sctructure.jpg" width="400"/>   
 
-### Размеры
+#### Размеры
 Размеры должны быть в метрической системе.   
 
 1 - Верхняя планка - диаметр 3.8 см, ширина 25 см.   
@@ -66,7 +67,7 @@ https://www.artstation.com/artwork/04zYQe
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_border_2.jpg" width="400"/>   
 
-### Внешний вид   
+## Внешний вид и референсы     
 Свиток вертикальный, в развернутом виде.    
 Активная зона у свитка прямая.    
 На вверху верхней планки должна быть небольшая фигура дракона. Дракон не должен перекрывать активную зону свитка.      
@@ -76,8 +77,6 @@ https://www.artstation.com/artwork/04zYQe
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/structure.jpg" width="400"/>   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/structure_2.jpg" width="400"/>   
-
-### Референсы свитка
 
 #### Планка (верхняя и нижняя)
 Соблюдая такую же цветовую гамму и стиль, сделать дизайн, исходя из референсов.   
@@ -125,9 +124,9 @@ Cделать два вида пергамента внутри свитка, н
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/white_pergament.jpg" width="400"/>  
 
-На белом пергаменте, должны хорошо быть видны, черные цернила.      
+На белом пергаменте, должны хорошо быть видны черные цернила.      
 
-### Подставка
+## Подставка
 Свиток в развернутом виде ставится на подставку.   
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/stand_structure.jpg" width="400"/>   
