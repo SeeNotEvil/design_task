@@ -45,7 +45,8 @@ https://www.artstation.com/artwork/04zYQe
 #### Активная область   
 Высота 28.4 см   
 
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_active_area.jpg" width="400"/>  
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_active_area.jpg" width="400"/> 
+ 
 Ширина 20.3 см   
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_active_area_2.jpg" width="400"/>  
@@ -65,7 +66,7 @@ https://www.artstation.com/artwork/04zYQe
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_border.jpg" width="400"/>   
 
 #### Наконечники
-Наконечники находятся на всех планках все планках, по краям справа и слева. Их ширина добавляется к каждой планке сверх ее ширина. То есть 25см + 3-6см на каждой из сторон.   
+Наконечники находятся на всех планках, по краям справа и слева. Их ширина добавляется к каждой планке сверх ее ширина. То есть 25см + 3-6см на каждой из сторон.   
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_border_2.jpg" width="400"/>   
 
