@@ -31,15 +31,15 @@ https://www.artstation.com/artwork/04zYQe
 
 #### Размеры обложки 
 34.5 см на 26.5 см   
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/size_book.png" width="400"/>    
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/size_book.jpg" width="400"/>    
   
 #### Внутрення высота рамки   
 26.7 см   
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/size_book_border_height.png" width="400"/>
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/size_book_border_height.jpg" width="400"/>
 
 #### Внутрення ширина рамки   
 16.5 см   
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/size_book_border_width.png" width="400"/>
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/size_book_border_width.jpg" width="400"/>
 
 #### Глубина рамки   
 Рамка выступает над обложкой.    
@@ -53,7 +53,7 @@ https://www.artstation.com/artwork/04zYQe
 Толщину самой рамки можно подгонять.    
 Примерно он должен быть как на рисунке.    
 Главное что бы внутреняя часть рамким (черная область) была неизменна и не уменьшалась в размерах.   
-<img src="https://github.com/SeeNotEvil/design_task/blob//main/technical_task_book/size_border.png" width="400"/>   
+<img src="https://github.com/SeeNotEvil/design_task/blob//main/technical_task_book/size_border.jpg" width="400"/>   
 3.2 см - 2.7 см - 6 см    
 
 ### Внешний вид   
@@ -63,36 +63,36 @@ https://www.artstation.com/artwork/04zYQe
 По умолчанию оставить черным цветом.   
 
 #### Общая структура обложки книжки.   
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/reference_struct.png" width="400"/>
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/reference_struct.jpg" width="400"/>
 
 #### Рамка   
 Пример Рамка на книжке:   
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/full.png" width="400"/>   
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/full.jpg" width="400"/>   
 Рамку делаем более детализированной. 
 В верхнем правом углу делаем дракона.   
 
 Пример:   
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/dragon.png" width="400"/> 
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/dragon.jpg" width="400"/> 
 
 #### В нижнем левом углу сохраняем и детализируем цветы:  
 Цветы не должны перекрывать черную область внутри рамки. Черная область внутри рамки должна быть такого же размера и формы как на рисунке.    
 
 Пример:   
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/flowers_reference.png" width="400"/>   
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/flowers_reference.jpg" width="400"/>   
 
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/flowers_reference_2.png" width="400"/>    
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/flowers_reference_2.jpg" width="400"/>    
 
 #### За основу самой книжки берем вот это.   
 Пример:   
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/book.png" width="400"/>
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/book.jpg" width="400"/>
 
 #### Заменяем на книге круглую рамку на новую.   
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/merge_book_frame.png" width="400"/>   
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/merge_book_frame.jpg" width="400"/>   
 
 #### Цвета на книжке, нужно сделать более темные и подходящие под магическую книгу
- <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/color.png" width="400"/>   
- <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/color_2.png" width="400"/>  
+ <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/color.jpg" width="400"/>   
+ <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/color_2.jpg" width="400"/>  
 
 #### Возможная степень детализации и фактура.   
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/detail_2.png" width="400"/>   
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/detail_3.png" width="400"/>   
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/detail_2.jpg" width="400"/>   
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/detail_3.jpg" width="400"/>   
