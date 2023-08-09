@@ -56,9 +56,9 @@ https://www.artstation.com/artwork/04zYQe
 <img src="https://github.com/SeeNotEvil/design_task/blob//main/technical_task_book/size_border.jpg" width="400"/>   
 
 ## Внешний вид и референсы   
-Обложка содержит в себе окошко обрамленное рамкой, внутри черная область.
+Обложка содержит в себе окошко обрамленное рамкой, внутри черная область.   
 Окошко находится на уровне книжной обложки, рамка выступает над обложкой.   
-Окошко не проходит насквозь - это просто черная область на обложке.    
+Окошко не проходит насквозь - это просто черная область на обложке.   
 
 #### Структура      
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/reference_struct.jpg" width="400"/>
@@ -90,7 +90,7 @@ https://www.artstation.com/artwork/04zYQe
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/book.jpg" width="400"/>
 
 #### Текстура и цвет книги   
-Выбрать подходящую цветовую гамму под рамку и книжку    
+Выбрать подходящую текстуру под рамку и книжку    
  <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/color_2.jpg" width="400"/>   
  <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/color.jpg" width="400"/>   
 
