@@ -29,9 +29,12 @@ https://www.artstation.com/artwork/04zYQe
 2 - Внутренняя область рамки - высота 26.7 см, ширина 16.5 см    
 
 #### Обложка
-Высота 34.5 см, Ширина 26.5 см   
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/size_book.jpg" width="400"/>    
-  
+Высота 34.5 см   
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/book_size_height.jpg" width="400"/>   
+
+Ширина 26.5 см   
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/book_size_width.jpg" width="400"/>   
+
 #### Внутренняя область рамки  
 Высота 26.7 см   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/size_book_border_height.jpg" width="400"/>
@@ -39,8 +42,8 @@ https://www.artstation.com/artwork/04zYQe
 Ширина 16.5 см   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/size_book_border_width.jpg" width="400"/>
  
-#### Рамка выступает над обложкой и имеет свою внутреннию высоту.      
-Подбирается индивидуально, примерно 0.8 см   
+#### Рамка выступает над обложкой и имеет свою внутреннюю высоту.      
+Подбирается индивидуально, примерно 0.8 см, над уровнем книжки.  
 
 #### Толщина книжки   
 Подбирается индивидуально, примерно 8 см   
@@ -49,25 +52,30 @@ https://www.artstation.com/artwork/04zYQe
 Подбирается индивидуально.    
 Главное что бы внутреняя область рамки была неизменна и не уменьшалась в размерах.  
 
-Примерно 3.2 см - 2.7 см - 6 см  
+Примерно 3.2 см - 2.7 см - 6 см в разных местах (смотри рисунок).
 <img src="https://github.com/SeeNotEvil/design_task/blob//main/technical_task_book/size_border.jpg" width="400"/>   
 
 ## Внешний вид и референсы   
-Обложка содержит в себе окошко обрамленное рамкой.    
+Обложка содержит в себе окошко обрамленное рамкой. 
+Окошко находится на уровне книжной обложки. Рамка выступает над обложкой.     
 Окошко не проходит насквозь, это просто черная облась на которой будут рисунки.    
-По умолчанию оставить черным цветом.      
+По умолчанию оставить черным цветом.   
 
 #### Структура      
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/reference_struct.jpg" width="400"/>
 
 #### Рамка    
-Рамку делаем более детализированной (см ниже пример детализации и фактуры)   
+Рамку делаем более детализированной (см ниже пример детализации и фактура)   
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/full.jpg" width="400"/>   
 
 В верхнем правом углу делаем дракона.   
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/dragon.jpg" width="400"/>   
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/detail_3.jpg" width="400"/>   
+
+#### Степень детализации и фактура книжки     
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/detail_2.jpg" width="400"/>   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/detail_3.jpg" width="400"/>   
 
 #### Цветы   
@@ -90,7 +98,3 @@ https://www.artstation.com/artwork/04zYQe
 #### Текстура книги     
  <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/color.jpg" width="400"/>   
  <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/color_2.jpg" width="400"/>  
-
-#### Степень детализации и фактура   
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/detail_2.jpg" width="400"/>   
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/detail_3.jpg" width="400"/>   
