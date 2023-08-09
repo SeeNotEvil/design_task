@@ -51,7 +51,7 @@ https://www.artstation.com/artwork/04zYQe
 Ширина 20.3 см.   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_active_area_2.jpg" width="400">  
 
-Высота центрально зоны, от края верхней планки до края нижней планки, примерно 25.3 см.   
+Высота центральной зоны, от края верхней планки до края нижней планки, примерно 25.3 см.   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_active_view_area.jpg" width="400">
 
 #### Планки   
