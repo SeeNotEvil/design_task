@@ -101,7 +101,7 @@ https://www.artstation.com/artwork/04zYQe
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_border.jpg" width="400"/>  
 
 #### Дракон.   
-Расположен на верхней планке. Он не должен перекрывать активную зону свитка и быть не сильно громоздким.    
+Расположен на верхней планке. Он не перекрывает активную зону свитка и по размерам не сильно громоздкий.    
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/Dragon.jpg" width="400"/>   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/Dragon_3.jpg" width="400"/>   
