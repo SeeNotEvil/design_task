@@ -120,7 +120,7 @@ Cделать два вида пергамента внутри свитка, н
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/black_pergament.jpg" width="400"/>   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/black_pergament_2.jpg" width="400"/>   
 
-На черном пергамент должны быть хорошо видны разноцветные цернила и он должен с ними сочетаться.    
+На черном пергаменте должны быть хорошо видны разноцветные цернила и он должен с ними сочетаться.    
 Пример цветов (разноцветных, магических, светящихся) чернил.   
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/color.jpg" width="400"/>   
