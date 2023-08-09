@@ -90,9 +90,9 @@ https://www.artstation.com/artwork/04zYQe
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/book.jpg" width="400"/>
 
 #### Текстура и цвет книги   
-Выбрать подходящую под рамку и книжку     
+Выбрать подходящую цветовую гамму под рамку и книжку    
+ <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/color_2.jpg" width="400"/>   
  <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/color.jpg" width="400"/>   
- <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/color_2.jpg" width="400"/>  
 
 #### Рамка + книжка    
 Заменяем круглую рамку на книжке, на ту что слева.      
