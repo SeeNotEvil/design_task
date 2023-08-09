@@ -97,7 +97,7 @@ https://www.artstation.com/artwork/04zYQe
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/stand.jpg" width="400"/>   
 
 #### Наконечники  
-На планки, помимо обрамления, добавляются драконьи наконечники.   
+На планки добавляются драконьи наконечники.   
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_border.jpg" width="400"/>  
 
