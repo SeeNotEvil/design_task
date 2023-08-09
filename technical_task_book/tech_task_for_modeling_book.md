@@ -63,7 +63,7 @@ https://www.artstation.com/artwork/04zYQe
 #### Структура      
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/reference_struct.jpg" width="400"/>
 
-#### Рамка + книжка
+#### Рамка
 Рамку делаем более детализированной (см ниже пример детализации и фактура)   
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/full.jpg" width="400"/>   
