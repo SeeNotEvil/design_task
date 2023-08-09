@@ -13,7 +13,7 @@
 3) Высокий уровень детализации и текстур.    
 4) Импортируется в игровой движок unreal engine 5.   
 
-#### Примеры аналогичных работ по уровню.     
+#### Примеры аналогичных по уровню работ.     
 https://www.artstation.com/artwork/DAGOJ0   
 https://www.artstation.com/artwork/lxgK65   
 https://www.artstation.com/artwork/EvLzB0   
