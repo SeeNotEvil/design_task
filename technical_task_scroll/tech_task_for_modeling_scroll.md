@@ -26,7 +26,7 @@ https://www.artstation.com/artwork/04zYQe
 Схематично свиток состоит из следующих частей.   
 1 - Верхняя планка.   
 2 - Нижняя планка.   
-3 - Активная зона - часть на которой будут рисунки (ее ничего не должно перекрывать).   
+3 - Активная область - часть на которой будут рисунки (ее ничего не должно перекрывать).   
 4 - Обрамление.   
 5 - Наконечники.   
 6 - Дракон (о нем смотри ниже).
@@ -51,7 +51,7 @@ https://www.artstation.com/artwork/04zYQe
 Ширина 20.3 см.   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_active_area_2.jpg" width="400">  
 
-Высота центральной зоны, от внутреннего края верхней планки до внутреннего края нижней планки, примерно ~ 25.2 см.    
+Высота центральной области, от внутреннего края верхней планки до внутреннего края нижней планки, примерно ~ 25.2 см.    
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_active_view_area.jpg" width="400">
 
@@ -76,8 +76,8 @@ https://www.artstation.com/artwork/04zYQe
 
 ## Внешний вид и референсы     
 Свиток вертикальный, в развернутом виде.    
-Активная зона у свитка прямая.    
-На вверху верхней планки должна быть небольшая фигура дракона. Дракон не должен перекрывать активную зону свитка.      
+Активная область у свитка прямая.    
+На вверху верхней планки должна быть небольшая фигура дракона. Дракон не должен перекрывать активную область свитка.      
 Свиток в открытом виде ставится на подставку.    
 
 Общий каркас свитка (без дракона).   
@@ -102,7 +102,7 @@ https://www.artstation.com/artwork/04zYQe
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_border.jpg" width="400"/>  
 
 #### Дракон.   
-Расположен на верхней планке. Он не перекрывает активную зону свитка и по размерам не сильно громоздкий.    
+Расположен на верхней планке. Он не перекрывает активную область свитка и по размерам не сильно громоздкий.    
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/Dragon.jpg" width="400"/>   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/Dragon_3.jpg" width="400"/>   
@@ -112,7 +112,7 @@ https://www.artstation.com/artwork/04zYQe
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/Dragon_2.jpg" width="400"/>   
 
 #### Пергамент   
-Cделать два вида пергамента внутри свитка, на месте его активной зоны.     
+Cделать два вида пергамента внутри свитка, на месте его активной области.     
 Пергаменты должны быть, как пустые, так и c текстом с разными чернилами.     
 
 ##### Черный пергамент   
