@@ -80,7 +80,7 @@ https://www.artstation.com/artwork/04zYQe
 Цветы не должны перекрывать черную область внутри рамки.  
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/full.jpg" width="400"/>   
 
-Референсы      
+Референсы цветов         
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/flowers_reference.jpg" width="400"/>   
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/flowers_reference_2.jpg" width="400"/>    
@@ -93,6 +93,6 @@ https://www.artstation.com/artwork/04zYQe
 Заменяем круглую рамку на книжке, на ту что слева.      
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/merge_book_frame.jpg" width="400"/>   
 
-#### Текстура книги     
+#### Текстура и цвет книги     
  <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/color.jpg" width="400"/>   
  <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/color_2.jpg" width="400"/>  
