@@ -108,7 +108,7 @@ https://www.artstation.com/artwork/04zYQe
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/Dragon.jpg" width="400"/>   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/Dragon_3.jpg" width="400"/>   
 
-##### По текстуре и цвету дракон как на референсе ниже.   
+##### По текстуре и цвету дракон как на референсе ниже      
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/Dragon_2.jpg" width="400"/>   
 
@@ -126,7 +126,7 @@ Cделать два вида пергамента внутри свитка, н
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/color.jpg" width="400"/>   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/color_2.jpg" width="400"/>   
 
-##### Белый пергамент.   
+##### Белый пергамент     
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/white_pergament.jpg" width="400"/>  
 
