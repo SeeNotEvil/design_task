@@ -53,9 +53,6 @@ https://www.artstation.com/artwork/04zYQe
 Высоты активной зоны 27.1 см.   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_add_2.jpg" width="400"/>  
 
-Общая высота 28.4 см.   
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_active_area.jpg" width="400"/>   
-
 #### Планки   
 Диаметр 3.8 см.   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_plank.jpg" width="400"/>  
