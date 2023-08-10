@@ -44,6 +44,9 @@ https://www.artstation.com/artwork/04zYQe
 6 - Дракон - размеры подбираются индивидуально и исходя из референсов (о нем смотри ниже).   
 
 #### Активная область   
+Ширина 20.3 см.   
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_active_area_2.jpg" width="400">  
+
 Высота 28.4 см.   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_active_area.jpg" width="400"/> 
 
@@ -53,11 +56,7 @@ https://www.artstation.com/artwork/04zYQe
 Высоты видимой активной зоны, примерно 26.2 см.      
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_add_2.jpg" width="400"/>  
 
-Ширина 20.3 см.   
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_active_area_2.jpg" width="400">  
-
-Высота центральной области, от внутреннего края верхней планки до внутреннего края нижней планки, примерно ~ 25.2 см.    
-
+Высота центральной области, от внутреннего края верхней планки до внутреннего края нижней планки, примерно ~ 25.2 см.   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_active_view_area.jpg" width="400">
 
 #### Планки   
