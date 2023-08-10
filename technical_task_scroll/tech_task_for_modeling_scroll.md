@@ -38,7 +38,7 @@ https://www.artstation.com/artwork/04zYQe
 
 1 - Верхняя планка - диаметр 3.8 см, ширина 25 см.   
 2 - Нижняя планка - диаметр 3.8 см, ширина 25 см.   
-3 - Активная область - ширина 20.3 см, высота 28.4 см, толщина 1.35 мм. Она плотно прилегает к планкам сверху и снизу, и немного заходит внутрь планок (размеры смотри ниже).   
+3 - Активная область - ширина 20.3 см, высота 27.1 см, толщина 1.35 мм. Она плотно прилегает к планкам сверху и снизу, и немного заходит внутрь планок (размеры смотри ниже).   
 4 - Обрамление - ширина 0.85 см по краям.   
 5 - Наконечники - размеры подбираются индивидуально, около 1.5 см ширина каждого.         
 6 - Дракон - размеры подбираются индивидуально и исходя из референсов (о нем смотри ниже).   
@@ -47,17 +47,14 @@ https://www.artstation.com/artwork/04zYQe
 Ширина 20.3 см.   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_active_area_2.jpg" width="400">  
 
-Высота 28.4 см.   
+Общая высота 28.4 см.   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_active_area.jpg" width="400"/> 
 
 Толщина 1.35 мм.   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_add.jpg" width="400"/>  
 
-Высоты видимой активной зоны, примерно 26.2 см.      
+Высоты активной зоны 27.1 см.   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_add_2.jpg" width="400"/>  
-
-Высота центральной области, от внутреннего края верхней планки до внутреннего края нижней планки, примерно ~ 25.2 см.   
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_active_view_area.jpg" width="400">
 
 #### Планки   
 Диаметр 3.8 см.   
