@@ -25,28 +25,28 @@ https://www.artstation.com/artwork/04zYQe
 ## Структура и размеры   
 Размеры задаются в метрической системе.   
 
-1 - Обложка - высота 34.5 см, ширина 26.5 см     
-2 - Внутренняя область рамки - высота 26.7 см, ширина 16.5 см    
+1 - Обложка - высота 34.5 см, ширина 26.5 см.     
+2 - Внутренняя область рамки - высота 26.7 см, ширина 16.5 см.    
 
 #### Обложка
-Высота 34.5 см   
+Высота 34.5 см.   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/book_size_height.jpg" width="400"/>   
 
-Ширина 26.5 см   
+Ширина 26.5 см.   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/book_size_width.jpg" width="400"/>   
 
 #### Внутренняя область рамки  
-Высота 26.7 см   
+Высота 26.7 см.   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/size_book_border_height.jpg" width="400"/>
  
-Ширина 16.5 см   
+Ширина 16.5 см.   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/size_book_border_width.jpg" width="400"/>
  
 #### Рамка выступает над обложкой и имеет свою внутреннюю высоту.      
 Подбирается индивидуально, примерно 0.8 см, над уровнем книжки.  
 
 #### Толщина книжки и обложки     
-Подбирается индивидуально, примерно 8 см   
+Подбирается индивидуально, примерно 8 см.   
 
 #### Толщина рамки   
 Подбирается индивидуально.    
@@ -80,7 +80,7 @@ https://www.artstation.com/artwork/04zYQe
 Цветы не должны перекрывать черную область внутри рамки.  
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/full.jpg" width="400"/>   
 
-Референсы цветов   
+Референсы цветов.   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/flowers_reference.jpg" width="400"/>   
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/flowers_reference_2.jpg" width="400"/>    
@@ -90,7 +90,7 @@ https://www.artstation.com/artwork/04zYQe
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/book.jpg" width="400"/>
 
 #### Текстура и цвет книги   
-Выбрать подходящую текстуру под рамку и книжку   
+Выбрать подходящую текстуру под рамку и книжку.   
  <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/color_2.jpg" width="400"/>   
  <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/color.jpg" width="400"/>   
 
