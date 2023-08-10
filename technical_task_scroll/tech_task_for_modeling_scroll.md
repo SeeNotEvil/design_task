@@ -34,7 +34,7 @@ https://www.artstation.com/artwork/04zYQe
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/sctructure.jpg" width="400"/>   
 
 #### Размеры
-Размеры должны быть в метрической системе.   
+Размеры задаются в метрической системе.   
 
 1 - Верхняя планка - диаметр 3.8 см, ширина 25 см.   
 2 - Нижняя планка - диаметр 3.8 см, ширина 25 см.   
@@ -77,7 +77,7 @@ https://www.artstation.com/artwork/04zYQe
 ## Внешний вид и референсы     
 Свиток вертикальный, в развернутом виде.    
 Активная область у свитка прямая.    
-На вверху верхней планки должна быть небольшая фигура дракона. Дракон не должен перекрывать активную область свитка.      
+На вверху верхней планки расположенна небольшая фигура дракона. Дракон не перекрывает активную область свитка.      
 Свиток в открытом виде ставится на подставку.    
 
 Общий каркас свитка (без дракона).   
@@ -108,19 +108,19 @@ https://www.artstation.com/artwork/04zYQe
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/Dragon.jpg" width="400"/>   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/Dragon_3.jpg" width="400"/>   
 
-##### По текстуре и цвету дракон должен быть таким.   
+##### По текстуре и цвету дракон как на референсе ниже.   
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/Dragon_2.jpg" width="400"/>   
 
 #### Пергамент   
 Cделать два вида пергамента внутри свитка, на месте его активной области.     
-Пергаменты должны быть, как пустые, так и c текстом с разными чернилами.     
+Пергаменты как пустые, так и c текстом (текст рыба) с разными чернилами.     
 
 ##### Черный пергамент   
  
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/black_pergament_2.jpg" width="400"/>   
 
-На черном пергаменте должны хорошо быть видны разноцветные цернила и он должен с ними сочетаться.    
+На черном пергаменте должны хорошо быть видны разноцветные цернила и они должны вместе сочетаться.    
 Пример цветов (разноцветных, магических, светящихся) чернил.   
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/color.jpg" width="400"/>   
