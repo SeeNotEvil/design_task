@@ -141,6 +141,10 @@ https://www.artstation.com/artwork/04zYQe
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/stand_structure.jpg" width="400"/>   
 
+Угол на котором стоит свиток 15 градусов.
+
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/scroll_angle.jpg" width="400"/>   
+
 #### Референсы подставки   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/stand_structure.jpg" width="400"/>   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/stand_2.jpg" width="400"/>    
