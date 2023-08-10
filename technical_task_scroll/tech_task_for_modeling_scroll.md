@@ -2,7 +2,7 @@
 Задача разработать дизайн и смоделировать "волшебный свиток" вместе с "подставкой" под него.   
 
 ## Требования   
-#### По итогу должно получиться.   
+#### По итогу должно получиться   
 1) Модель с текстурами, готовая к импорту в игровой движок unreal engine 5.   
 2) Ряд скриншотов с отрандеренными моделями и текстурами, минимум 5-6 штук, с разных ракурсов. Обязательно фронтальное изображение и перспектива.        
 3) Оригинальные модели в vbx, с текстурами.     
@@ -108,7 +108,7 @@ https://www.artstation.com/artwork/04zYQe
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/Dragon.jpg" width="400"/>   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/Dragon_3.jpg" width="400"/>   
 
-##### По текстуре и цвету дракон как на референсе ниже      
+##### По текстуре и цвету дракон как на референсе ниже.      
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/Dragon_2.jpg" width="400"/>   
 
