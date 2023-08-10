@@ -98,5 +98,4 @@ https://www.artstation.com/artwork/04zYQe
 Заменяем круглую рамку на книжке, на ту что слева.      
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/merge_book_frame.jpg" width="400"/>   
 
-### Доп ссылка с файл blend с которого снимались размеры.   
-[](https://github.com/SeeNotEvil/design_task/tree/main/technical_task_book/blender)   
+[Доп ссылка с файлом blend с которого снимались размеры](https://github.com/SeeNotEvil/design_task/tree/main/technical_task_book/blender)   
