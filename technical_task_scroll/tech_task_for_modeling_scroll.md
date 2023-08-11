@@ -107,7 +107,7 @@ https://www.artstation.com/artwork/04zYQe
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/Dragon.jpg" width="400"/>   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/Dragon_3.jpg" width="400"/>   
 
-Должно оставаться место, для того что бы, было можно брать свиток руками.   
+Должно оставаться место, для того чтобы, было можно брать свиток руками.  
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/scroll_in_hand_2.jpg" width="400"/>   
 
 **По текстуре и цвету дракон как на референсе ниже.**      
