@@ -140,7 +140,7 @@ https://www.artstation.com/artwork/04zYQe
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/stand_structure.jpg" width="400"/>   
 
-Угол на котором стоит свиток - 18 градусов.
+Угол под которым стоит свиток - 18 градусов.
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/scroll_angle.jpg" width="400"/>   
 
