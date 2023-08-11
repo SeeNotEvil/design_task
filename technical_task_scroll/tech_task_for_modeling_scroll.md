@@ -43,15 +43,17 @@ https://www.artstation.com/artwork/04zYQe
 5 - Наконечники - размеры подбираются индивидуально, около 1.5 см ширина каждого.         
 6 - Дракон - размеры подбираются индивидуально и исходя из референсов (о нем смотри ниже).   
 
-#### Активная область   
+#### Активная область  
+Высоты активной зоны 27.1 см.   
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_active_area.jpg" width="400"/>  
+
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_add_2.jpg" width="400"/>  
+
 Ширина 20.3 см.   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_active_area_2.jpg" width="400">  
 
 Толщина 1.35 мм.   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_add.jpg" width="400"/>  
-
-Высоты активной зоны 27.1 см.   
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_add_2.jpg" width="400"/>  
 
 #### Планки   
 Диаметр 3.8 см.   
