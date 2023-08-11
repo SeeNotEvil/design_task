@@ -68,6 +68,7 @@ https://www.artstation.com/artwork/04zYQe
 
 #### Наконечники
 Наконечники находятся на всех планках, по краям справа и слева. Их ширина добавляется к каждой планке сверх ее ширины, то есть 25 см + 1.5 см с каждой из сторон.   
+Форма и другие рамзеры подбираются в зависимости от референсов, ниже.   
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_border_2.jpg" width="400"/>   
 
