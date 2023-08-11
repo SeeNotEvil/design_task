@@ -82,7 +82,7 @@ https://www.artstation.com/artwork/04zYQe
 
 Общий каркас свитка (без дракона).   
 
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/structure.jpg" width="400"/>     
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/scheme.jpg" width="400"/>     
 
 #### Планка (верхняя и нижняя)
 Соблюдая такую же цветовую гамму и стиль, сделать дизайн, исходя из референсов.   
