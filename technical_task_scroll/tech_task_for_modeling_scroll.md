@@ -51,17 +51,15 @@ https://www.artstation.com/artwork/04zYQe
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_border.jpg" width="400"/>
 
 #### Активная область  
-Высота активной зоны 27.1 см.   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_active_area.jpg" width="400"/>  
 
 Высота между внутренними краями планок ~27.4 см.   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_active_area_view.jpg" width="400"/>  
 
-Толщина 1.35 мм.   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_add.jpg" width="400"/>  
 
 #### Дракон   
-Размеры подбираются индивидуально и исходя из референсов.   
+Размеры подбираются индивидуально и исходя из референсов. Но он должен занимать больше чем 7 на 7 см.     
 
 ## Внешний вид и референсы     
 Свиток вертикальный, в развернутом виде.    
