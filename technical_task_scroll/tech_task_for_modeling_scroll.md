@@ -59,7 +59,7 @@ https://www.artstation.com/artwork/04zYQe
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_active_area_view.jpg" width="400"/>  
 
 #### Дракон   
-Размеры подбираются индивидуально и исходя из референсов.   
+Размеры подбираются индивидуально и исходя из референсов. Но в него должен помещаться квадрат 6 см на 8 см.   
 
 ## Внешний вид и референсы     
 Свиток вертикальный, в развернутом виде.    
