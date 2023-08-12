@@ -111,7 +111,7 @@ https://www.artstation.com/artwork/04zYQe
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/Dragon.jpg" width="400"/>   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/Dragon_3.jpg" width="400"/>   
 
-Должно оставаться место для того чтобы брать свиток руками.  
+Должно оставаться место, для того чтобы, брать свиток руками.  
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/scroll_in_hand_2.jpg" width="400"/>   
 
 **По текстуре и цвету дракон как на референсе ниже.**      
@@ -127,7 +127,7 @@ https://www.artstation.com/artwork/04zYQe
  
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/black_pergament_2.jpg" width="400"/>   
 
-На черном пергаменте должны хорошо быть видны разноцветные чернила.   
+На черном пергаменте, должны хорошо, быть видны разноцветные чернила.   
 Пример цветов (разноцветных, магических, светящихся) чернил.   
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/color.jpg" width="400"/>   
@@ -137,7 +137,7 @@ https://www.artstation.com/artwork/04zYQe
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/white_pergament.jpg" width="400"/>  
 
-На белом пергаменте должны хорошо быть видны черные чернила.      
+На белом пергаменте, должны хорошо, быть видны черные чернила.      
 
 ## Подставка
 Свиток в развернутом виде ставится на подставку.   
