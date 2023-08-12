@@ -30,62 +30,48 @@ https://www.artstation.com/artwork/04zYQe
 3 - Активная область - часть на которой будут рисунки (ее ничего не должно перекрывать).   
 4 - Обрамление.   
 5 - Наконечники.   
-6 - Дракон (о нем смотри ниже).
+6 - Дракон.
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/scheme.jpg" width="400"/>   
 
 #### Размеры
 Размеры задаются в метрической системе.   
 
-1 - Верхняя планка - диаметр 3.8 см, ширина 25 см.   
-2 - Нижняя планка - диаметр 3.8 см, ширина 25 см.   
+1 - Верхняя планка - диаметр 5 см, ширина 26.5 см.   
+2 - Нижняя планка - диаметр 5 см, ширина 26.5 см.   
 3 - Активная область - ширина 20.3 см, высота 27.1 см, толщина 1.35 мм. Она плотно прилегает к планкам сверху и снизу.   
-4 - Обрамление - ширина 0.85 см по краям.   
-5 - Наконечники - размеры подбираются индивидуально, около 1.5 см ширина каждого.         
+4 - Обрамление - ширина 1.1 см по краям.   
+5 - Наконечники - размеры подбираются индивидуально, около 1.5 см ширина и диаметр 6 см (можно делать больше).         
 6 - Дракон - размеры подбираются индивидуально и исходя из референсов (о нем смотри ниже).   
+
+#### Планки и наконечники 
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_plank.jpg" width="400"/>  
+
+#### Щирина активной области и обрамление    
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_border.jpg" width="400"/>
 
 #### Активная область  
 Высота активной зоны 27.1 см.   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_active_area.jpg" width="400"/>  
 
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_add_2.jpg" width="400"/>  
-
-Высота между внутренними краями планок 25 см.   
+Высота между внутренними краями планок ~27.4 см.   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_active_area_view.jpg" width="400"/>  
-
-Ширина 20.3 см.   
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_active_area_2.jpg" width="400">  
 
 Толщина 1.35 мм.   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_add.jpg" width="400"/>  
 
-#### Планки   
-Диаметр 3.8 см.   
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_plank.jpg" width="400"/>  
-
-Ширина 25 см.  
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_plank_2.jpg" width="400"/>
-
-#### Обрамление   
-Ширина 0.85 см.   
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_border.jpg" width="400"/>   
-
-#### Наконечники
-Наконечники находятся на всех планках, по краям справа и слева. Их ширина добавляется к каждой планке сверх ее ширины, то есть 25 см + 1.5 см с каждой из сторон.   
-Остальные их размеры и форма подбираются в зависимости от референсов.   
-
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_border_2.jpg" width="400"/>   
-
 #### Дракон   
-Размеры подбираются индивидуально и исходя из референсов (о нем смотри ниже).   
+Размеры подбираются индивидуально и исходя из референсов.
+Но он должен быть больше    
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_add.jpg" width="400"/>  
 
 ## Внешний вид и референсы     
 Свиток вертикальный, в развернутом виде.    
 Активная область у свитка прямая.    
-На вверху верхней планки расположена небольшая фигура дракона.      
+На вверху верхней планки расположена фигура дракона.      
 Свиток в открытом виде ставится на подставку.    
 
-Общий каркас свитка (без дракона).   
+Общий каркас свитка.     
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/structure.jpg" width="400"/>     
 
@@ -107,10 +93,9 @@ https://www.artstation.com/artwork/04zYQe
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_border.jpg" width="400"/>  
 
 #### Дракон.   
-Расположен на верхней планке. Он **не перекрывает собой активную область свитка** и по размерам не сильно громоздкий.    
+Расположен на верхней планке. Он **не перекрывает собой активную область свитка**.   
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/Dragon.jpg" width="400"/>   
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/Dragon_3.jpg" width="400"/>   
 
 Должно оставаться место, для того чтобы, брать свиток руками.  
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/scroll_in_hand_2.jpg" width="400"/>   
