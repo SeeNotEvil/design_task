@@ -59,7 +59,7 @@ https://www.artstation.com/artwork/04zYQe
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_active_area_view.jpg" width="400"/>  
 
 #### Дракон   
-Размеры подбираются индивидуально и исходя из референсов. Единственное условие, в него должен помещаться квадрат 8 см x 5.5 x 1 см.   
+Размеры подбираются индивидуально и исходя из референсов. Единственное условие, в него должен помещаться квадрат 8 см x 5.5 см x 1 см.   
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/dragon_size.jpg" width="400"/>   
 
@@ -69,7 +69,7 @@ https://www.artstation.com/artwork/04zYQe
 На вверху верхней планки расположена фигура дракона.      
 Свиток в открытом виде ставится на подставку.    
 
-Общий каркас свитка.     
+Общий каркас свитка (без дракона).   
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/structure.jpg" width="400"/>     
 
