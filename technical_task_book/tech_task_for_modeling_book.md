@@ -23,10 +23,19 @@ https://www.artstation.com/artwork/Oo2OWv
 https://www.artstation.com/artwork/04zYQe   
  
 ## Структура и размеры   
+Схематично свиток состоит из следующих частей.   
+1 - Рамка.   
+2 - Обложка.   
+3 - Внутреняя область рамки.   
+4 - Голова дракона.   
+5 - Цветы.       
+
+#### Размеры   
 Размеры задаются в метрической системе.   
 
 1 - Обложка - высота 34.5 см, ширина 26.5 см.     
 2 - Внутренняя область рамки - высота 26.7 см, ширина 16.5 см.    
+Остальные размеры подбираются индивидуально.   
 
 #### Обложка
 Высота 34.5 см.   
@@ -56,7 +65,7 @@ https://www.artstation.com/artwork/04zYQe
 <img src="https://github.com/SeeNotEvil/design_task/blob//main/technical_task_book/size_border.jpg" width="400"/>   
 
 ## Внешний вид и референсы   
-Обложка содержит в себе внутреннюю область обрамленное рамкой.   
+Обложка содержит в себе внутреннюю область обрамленную рамкой.   
 Она находится уровне книжной обложки, рамка выступает над обложкой.   
 
 #### Структура      
@@ -66,11 +75,11 @@ https://www.artstation.com/artwork/04zYQe
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/full.jpg" width="400"/>   
 
 #### Голова дракона 
-В верхнем правом углу делаем дракона.   
+В верхнем правом углу расположенна голова дракона.   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/detail_3.jpg" width="400"/>   
 
 #### Степень детализации и фактура книжки    
-Рамку делаем более детализированной, что бы было больше мелких деталей, так как книжка будет довольно обьемная по высоте и ширине. Ниже примеры возможной детализации.   
+Рамку делаем более детализированной, что бы она содержала больше мелких деталей, так как книжка будет довольно обьемная по высоте и ширине. Ниже примеры возможной детализации.   
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/detail_2.jpg" width="400"/>   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/detail_3.jpg" width="400"/>   
