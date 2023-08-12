@@ -30,6 +30,8 @@ https://www.artstation.com/artwork/04zYQe
 4 - Голова дракона.   
 5 - Цветы.       
 
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/scheme.jpg" width="400"/>   
+
 #### Размеры   
 Размеры задаются в метрической системе.   
 
