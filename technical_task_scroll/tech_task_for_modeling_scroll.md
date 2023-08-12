@@ -44,7 +44,7 @@ https://www.artstation.com/artwork/04zYQe
 6 - Дракон - размеры подбираются индивидуально и исходя из референсов (о нем смотри ниже).   
 
 #### Активная область  
-Высоты активной зоны 27.1 см.   
+Высота активной зоны 27.1 см.   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_active_area.jpg" width="400"/>  
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_add_2.jpg" width="400"/>  
@@ -96,7 +96,7 @@ https://www.artstation.com/artwork/04zYQe
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_scroll_4.jpg" width="400"/>  
 
 #### Обрамление    
-Обрамление должно быть в виде орнамента.  
+Обрамление, должно быть, в виде орнамента.  
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/stand.jpg" width="400"/>   
 
@@ -153,6 +153,6 @@ https://www.artstation.com/artwork/04zYQe
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/stand_2.jpg" width="400"/>    
 
 #### Размеры   
-Размеры подставки подогнать под свиток, в зависимости от дизайна.   
+Размеры подставки подогнать под свиток, в зависимости от, дизайна.   
  
 [Доп ссылка с файлом blend с которого снимались размеры](https://github.com/SeeNotEvil/design_task/tree/main/technical_task_scroll/blender) 
