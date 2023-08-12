@@ -141,7 +141,8 @@ https://www.artstation.com/artwork/04zYQe
 
 ## Подставка
 Свиток в **развернутом** виде ставится на подставку.   
-Угол под которым стоит свиток - 18 градусов.
+Угол под которым стоит свиток - 18 градусов.   
+Активная зона не должна загибаться, а быть прямой, как на рисунке ниже.   
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/scroll_angle.jpg" width="400"/>   
 
