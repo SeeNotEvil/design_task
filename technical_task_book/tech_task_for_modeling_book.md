@@ -28,7 +28,7 @@ https://www.artstation.com/artwork/04zYQe
 2 - Обложка.   
 3 - Внутреняя область рамки.   
 4 - Голова дракона.   
-5 - Цветы.       
+5 - Цветы.   
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/scheme.jpg" width="400"/>   
 
