@@ -55,7 +55,7 @@ https://www.artstation.com/artwork/04zYQe
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_add.jpg" width="400"/>  
 
-Высота между внутренними краями планок ~27.4 см.   
+Высота между внутренними краями планок ~26.7 см.   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_active_area_view.jpg" width="400"/>  
 
 #### Дракон   
