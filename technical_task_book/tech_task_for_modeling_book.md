@@ -37,21 +37,13 @@ https://www.artstation.com/artwork/04zYQe
 Размеры задаются в метрической системе.   
 
 1 - Обложка - высота 34.5 см, ширина 26.5 см.     
-2 - Внутренняя область рамки - высота 26.7 см, ширина 16.5 см.    
+2 - Внутренняя область рамки - высота 27.1 см, ширина 17 см.    
 Остальные размеры подбираются индивидуально.   
 
 #### Обложка
-Высота 34.5 см.   
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/book_size_height.jpg" width="400"/>   
-
-Ширина 26.5 см.   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/book_size_width.jpg" width="400"/>   
 
 #### Внутренняя область рамки  
-Высота 26.7 см.   
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/size_book_border_height.jpg" width="400"/>
- 
-Ширина 16.5 см.   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/size_book_border_width.jpg" width="400"/>   
 Разрешается увеличивать внутреннюю область рамки, но не уменьшать.        
 
@@ -64,9 +56,6 @@ https://www.artstation.com/artwork/04zYQe
 #### Толщина рамки   
 Подбирается индивидуально.    
 Главное, что бы внутренняя область рамки (черным цветом) была неизменна и не уменьшалась в размерах, а возможно, стала даже больше.  
-
-Примерно 3.2 см - 2.7 см - 6 см в разных местах (смотри рисунок).   
-<img src="https://github.com/SeeNotEvil/design_task/blob//main/technical_task_book/size_border.jpg" width="400"/>   
 
 ## Внешний вид и референсы   
 Обложка содержит в себе внутреннюю область обрамленную рамкой.   
