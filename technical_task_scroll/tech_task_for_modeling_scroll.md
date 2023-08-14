@@ -63,7 +63,7 @@ https://www.artstation.com/artwork/04zYQe
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/dragon_size.jpg" width="400"/>   
 
-Это минимум, его размер может быть гораздо больше.   
+Это минимум, его размер может быть больше.   
 
 ## Внешний вид и референсы     
 Свиток вертикальный, в развернутом виде.    
