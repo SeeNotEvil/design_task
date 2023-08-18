@@ -14,14 +14,10 @@
 3) Высокий уровень детализации и текстур.    
 4) Импортируется в игровой движок unreal engine 5.   
 
-#### Примеры аналогичных по уровню работ     
+#### Примеры аналогичных по уровню работ  
+https://www.artstation.com/artwork/mzgk8a   
+https://www.artstation.com/artwork/PX2gWL   
 https://www.artstation.com/artwork/DAGOJ0   
-https://www.artstation.com/artwork/lxgK65   
-https://www.artstation.com/artwork/EvLzB0   
-https://www.artstation.com/artwork/Jvb4rZ   
-https://www.artstation.com/artwork/kDl2aA   
-https://www.artstation.com/artwork/Oo2OWv   
-https://www.artstation.com/artwork/04zYQe   
  
 ## Структура и размеры   
 Схематично свиток состоит из следующих частей.   
