@@ -15,13 +15,9 @@
 4) Импортируются в игровой движок unreal engine 5.    
 
 #### Примеры аналогичных по уровню работ  
+https://www.artstation.com/artwork/mzgk8a   
+https://www.artstation.com/artwork/PX2gWL   
 https://www.artstation.com/artwork/DAGOJ0   
-https://www.artstation.com/artwork/lxgK65   
-https://www.artstation.com/artwork/EvLzB0   
-https://www.artstation.com/artwork/Jvb4rZ   
-https://www.artstation.com/artwork/kDl2aA   
-https://www.artstation.com/artwork/Oo2OWv   
-https://www.artstation.com/artwork/04zYQe   
 
 ## Структура и размеры   
 Схематично свиток состоит из следующих частей.   
@@ -44,19 +40,13 @@ https://www.artstation.com/artwork/04zYQe
 5 - Наконечники - размеры подбираются индивидуально, около 1.5 см ширина и диаметр 6.5 см (можно делать больше).         
 6 - Дракон - размеры подбираются индивидуально и исходя из референсов (о нем смотри ниже).   
 
-#### Планки и наконечники 
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_plank.jpg" width="400"/>  
-
-#### Щирина активной области и обрамление    
+#### Вид спереди
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_border.jpg" width="400"/>
 
-#### Активная область  
+#### Вид сбоку  
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_active_area.jpg" width="400"/>  
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_add.jpg" width="400"/>  
-
-Высота между внутренними краями планок ~26.7 см.   
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_active_area_view.jpg" width="400"/>  
 
 #### Дракон   
 Размеры подбираются индивидуально и исходя из референсов. Единственное условие, внутрь него должен помещаться квадрат 8 см x 5.5 см x 1 см.    
