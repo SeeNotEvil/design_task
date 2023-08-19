@@ -47,7 +47,7 @@ https://www.artstation.com/artwork/DAGOJ0
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/size_active_area.jpg" width="400"/>  (27.1 см)
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_scroll/plank_add.jpg" width="400"/>  
-
+**Активная область крепится к планкам посередине, точно так же как на рисунке**   
 #### Дракон   
 Размеры подбираются индивидуально и исходя из референсов. Единственное условие, внутрь него должен помещаться квадрат 8 см x 5.5 см x 1 см.    
 
