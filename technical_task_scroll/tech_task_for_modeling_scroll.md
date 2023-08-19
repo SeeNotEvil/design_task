@@ -130,5 +130,3 @@ https://www.artstation.com/artwork/DAGOJ0
 
 #### Размеры   
 Размеры подставки подогнать под свиток, в зависимости от, дизайна.   
- 
-[Доп ссылка с файлом blend с которого снимались размеры](https://github.com/SeeNotEvil/design_task/tree/main/technical_task_scroll/blender) 
