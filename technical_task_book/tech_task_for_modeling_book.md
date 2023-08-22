@@ -62,13 +62,13 @@ https://www.artstation.com/artwork/DAGOJ0
 #### Рамка
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/full.jpg" width="400"/>   
 
-Рамку делаем более детализированной, что бы она содержала больше деталей, так как книжка будет довольно объемная по высоте и ширине. Примеры мелких деталей и орнаметнов выше, где голова дракона.    
+Рамку делаем более детализированной, что бы она содержала больше деталей, так как книжка будет довольно объемная по высоте и ширине. Примеры мелких деталей и орнаметнов ниже, где голова дракона.    
 
-Так же можно добавить золотые орнаменты на рамку и книжку.    
+Так же, можно добавить золотые орнаменты на рамку и книжку.    
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/ornament.jpg" width="400"/> 
 
 #### Голова дракона 
-В верхнем правом углу расположенна голова дракона.   
+В верхнем правом углу расположенна голова дракона. Она обернута зеленью и цветами.
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/dragon.jpg" width="400"/> 
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/dragon_1.jpg" width="400"/> 
@@ -76,7 +76,7 @@ https://www.artstation.com/artwork/DAGOJ0
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/detail_2.jpg" width="400"/>  
 
 #### Цветы   
-Цветы не должны перекрывать внутреннюю область рамки.  
+Цветы не должны перекрывать внутреннюю область рамки. Цветы могут быть по всей рамке и книжке.
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/full.jpg" width="400"/>   
 
 **Референсы цветов.**     
