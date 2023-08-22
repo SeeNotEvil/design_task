@@ -67,11 +67,11 @@ https://www.artstation.com/artwork/DAGOJ0
 
 #### Голова дракона 
 В верхнем правом углу расположенна голова дракона.   
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/dragon.jpg" width="400"/> 
+
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/dragon_1.jpg" width="400"/> 
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/dragon_2.jpg" width="400"/> 
-
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/dragon_3.jpg" width="400"/> 
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/detail_2.jpg" width="400"/>   
 
