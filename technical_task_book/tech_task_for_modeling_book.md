@@ -76,7 +76,7 @@ https://www.artstation.com/artwork/DAGOJ0
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/detail_2.jpg" width="400"/>  
 
 #### Цветы   
-Цветы не должны перекрывать внутреннюю область рамки. Цветы могут быть по всей рамке и книжке.
+Цветы и зелень, не должны перекрывать внутреннюю область рамки. Цветы могут быть по всей рамке и книжке.
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/full.jpg" width="400"/>   
 
 **Референсы цветов.**     
