@@ -83,9 +83,7 @@ https://www.artstation.com/artwork/DAGOJ0
 Цветы не должны перекрывать внутреннюю область рамки.  
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/full.jpg" width="400"/>   
 
-**Референсы цветов.**   
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/flowers_reference_2.jpg" width="400"/>    
-
+**Референсы цветов.**     
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/flowers_reference_3.jpg" width="400"/> 
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/flowers_reference_4.jpg" width="400"/>   
