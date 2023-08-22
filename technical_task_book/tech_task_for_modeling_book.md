@@ -63,9 +63,15 @@ https://www.artstation.com/artwork/DAGOJ0
 #### Рамка
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/full.jpg" width="400"/>   
 
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/full_2.jpg" width="400"/>   
+
 #### Голова дракона 
 В верхнем правом углу расположенна голова дракона.   
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/detail_3.jpg" width="400"/>   
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/dragon_1.jpg" width="400"/> 
+
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/dragon_2.jpg" width="400"/> 
+
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/dragon_1.jpg" width="400"/> 
 
 #### Степень детализации и фактура книжки    
 Рамку делаем более детализированной, что бы она содержала больше деталей, так как книжка будет довольно объемная по высоте и ширине. Ниже примеры возможной детализации.   
@@ -78,9 +84,11 @@ https://www.artstation.com/artwork/DAGOJ0
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/full.jpg" width="400"/>   
 
 **Референсы цветов.**   
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/flowers_reference.jpg" width="400"/>   
-
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/flowers_reference_2.jpg" width="400"/>    
+
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/flowers_reference_3.jpg" width="400"/> 
+
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/flowers_reference_4.jpg" width="400"/>   
 
 #### Книжка      
 
@@ -89,7 +97,6 @@ https://www.artstation.com/artwork/DAGOJ0
 #### Текстура и цвет книги   
 Выбрать подходящую текстуру под рамку и книжку.   
  <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/color_2.jpg" width="400"/>   
- <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/color.jpg" width="400"/>   
 
 #### Рамка + книжка    
 Заменяем круглую рамку на книжке, на ту что слева.      
