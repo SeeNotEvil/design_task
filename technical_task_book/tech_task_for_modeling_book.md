@@ -87,7 +87,8 @@ https://www.artstation.com/artwork/DAGOJ0
 #### Книжка      
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/book.jpg" width="400"/>   
-Задизайнить и боковой переплет книжки. Можно орнаментом.   
+Задизайнить и боковой переплет книжки. Можно орнаментом. 
+
 #### Текстура и цвет книги   
 Выбрать подходящую текстуру под рамку и книжку.   
  <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/color_2.jpg" width="400"/>   
