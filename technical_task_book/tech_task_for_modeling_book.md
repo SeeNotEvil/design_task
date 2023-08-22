@@ -24,7 +24,7 @@ https://www.artstation.com/artwork/DAGOJ0
 2 - Рамка.   
 3 - Внутренняя область рамки.   
 4 - Голова дракона.   
-5 - Цветы.   
+5 - Цветы и зелень.   
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/scheme.jpg" width="400"/>   
 
