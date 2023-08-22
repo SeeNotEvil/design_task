@@ -66,6 +66,7 @@ https://www.artstation.com/artwork/DAGOJ0
 
 Так же можно добавить золотые орнаменты на рамку и книжку.    
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/ornament.jpg" width="400"/> 
+Задизайнить и боковой переплет книжки. Можно орнаментом.
 
 #### Голова дракона 
 В верхнем правом углу расположенна голова дракона.   
