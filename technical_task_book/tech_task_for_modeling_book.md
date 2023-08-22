@@ -71,13 +71,14 @@ https://www.artstation.com/artwork/DAGOJ0
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/dragon_2.jpg" width="400"/> 
 
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/dragon_1.jpg" width="400"/> 
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/dragon_3.jpg" width="400"/> 
+
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/detail_2.jpg" width="400"/>   
 
 #### Степень детализации и фактура книжки    
 Рамку делаем более детализированной, что бы она содержала больше деталей, так как книжка будет довольно объемная по высоте и ширине. Ниже примеры возможной детализации.   
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/detail_2.jpg" width="400"/>   
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/detail_3.jpg" width="400"/>   
 
 #### Цветы   
 Цветы не должны перекрывать внутреннюю область рамки.  
