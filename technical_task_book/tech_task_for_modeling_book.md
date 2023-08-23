@@ -74,7 +74,7 @@ https://www.artstation.com/artwork/DAGOJ0
 Выбрать подходящую текстуру под рамку и книжку.   
  <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/color_2.jpg" width="400"/>   
 
- <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/color_2.jpg" width="400"/>   
+ <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/color_3.jpg" width="400"/>   
 
 #### Голова дракона 
 В верхнем правом углу расположенна голова дракона. Она обернута зеленью и цветами.
