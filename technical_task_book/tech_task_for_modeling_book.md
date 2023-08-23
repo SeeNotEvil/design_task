@@ -88,9 +88,13 @@ https://www.artstation.com/artwork/DAGOJ0
 Цветы и зелень, не должны перекрывать внутреннюю область рамки. Цветы могут быть по всей рамке и книжке.
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/full.jpg" width="400"/>   
 
-**Референсы цветов.**     
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/flowers_reference_3.jpg" width="400"/> 
+**Референсы цветов.**   
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/dragon.jpg" width="400"/>  
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/flowers_reference_4.jpg" width="400"/>   
+
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/flowers_reference_2.jpg" width="400"/> 
+
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/flowers_reference_3.jpg" width="400"/> 
 
 [Доп ссылка с файлом blend с которого снимались размеры](https://github.com/SeeNotEvil/design_task/tree/main/technical_task_book/blender)   
