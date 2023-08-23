@@ -68,6 +68,15 @@ https://www.artstation.com/artwork/DAGOJ0
 Так же можно добавить золотые орнаменты на рамку и книжку.    
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/ornament.jpg" width="400"/> 
 
+#### Книжка    
+Заменяем круглую рамку на книжке, на ту что слева.      
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/merge_book_frame.jpg" width="400"/>   
+
+Выбрать подходящую текстуру под рамку и книжку.   
+ <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/color_2.jpg" width="400"/>   
+
+ <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/color_2.jpg" width="400"/>   
+
 #### Голова дракона 
 В верхнем правом углу расположенна голова дракона.   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/dragon.jpg" width="400"/> 
@@ -84,17 +93,5 @@ https://www.artstation.com/artwork/DAGOJ0
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/flowers_reference_3.jpg" width="400"/> 
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/flowers_reference_4.jpg" width="400"/>   
-
-#### Книжка      
-
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/book.jpg" width="400"/>
-
-#### Текстура и цвет книги   
-Выбрать подходящую текстуру под рамку и книжку.   
- <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/color_2.jpg" width="400"/>   
-
-#### Рамка + книжка    
-Заменяем круглую рамку на книжке, на ту что слева.      
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/merge_book_frame.jpg" width="400"/>   
 
 [Доп ссылка с файлом blend с которого снимались размеры](https://github.com/SeeNotEvil/design_task/tree/main/technical_task_book/blender)   
