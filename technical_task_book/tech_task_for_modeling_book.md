@@ -64,7 +64,7 @@ https://www.artstation.com/artwork/DAGOJ0
 
 Рамку делаем более детализированной, что бы она содержала больше деталей, так как книжка будет довольно объемная по высоте и ширине. Примеры мелких деталей и орнаметнов ниже, где голова дракона.    
 
-Так же, можно добавить золотые орнаменты на рамку и книжку.    
+Так же, можно добавить золотые орнаменты на рамку и книжку.  
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/ornament.jpg" width="400"/> 
 
 #### Книжка    
@@ -75,6 +75,8 @@ https://www.artstation.com/artwork/DAGOJ0
  <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/color_2.jpg" width="400"/>   
 
  <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/color_3.jpg" width="400"/>   
+
+Оформляем также боковой переплет орнаментом.   
 
 #### Голова дракона 
 В верхнем правом углу расположенна голова дракона. Она обернута зеленью и цветами.
