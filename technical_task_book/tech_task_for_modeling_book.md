@@ -68,11 +68,12 @@ https://www.artstation.com/artwork/DAGOJ0
 Заменяем круглую рамку на книжке, на ту что слева.      
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/merge_book_frame.jpg" width="400"/>   
 
-** Текстура под рамку и книжку и т д ниже. Стиль такой же. **  
+**Текстура под рамку и книжку и т д ниже. Стиль такой же.**  
  <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/color_2.jpg" width="400"/>   
  <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/color_3.jpg" width="400"/>   
 
-Оформляем также боковой переплет орнаментом. Так же, можно добавить орнаменты на рамку и книжку.  
+Оформляем также боковой переплет орнаментом.   
+Так же, можно добавить орнаменты на рамку и книжку.  
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/ornament.jpg" width="400"/>   
 
 #### Голова дракона 
