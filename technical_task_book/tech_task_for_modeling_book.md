@@ -66,13 +66,10 @@ https://www.artstation.com/artwork/DAGOJ0
 
 Рамку делаем более детализированной, что бы она содержала больше деталей, так как книжка будет довольно объемная по высоте и ширине.       
 
-**Текстура, стиль, цвета, под рамку и книжку.**  
+**Текстура, стиль, цвета, под рамку и книжку.** 
+**Дракона в центре как на рисунке нет, там рамка с черной областью, он тут только как референс, его голова будет в правом врехнем углу рамки!**
  <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/color_2.jpg" width="400"/>   
  <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/color_3.jpg" width="400"/>   
-
-Оформляем также боковой переплет орнаментом.   
-Так же, можно добавить орнаменты на рамку и книжку.  
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/ornament.jpg" width="400"/>   
 
 #### Голова дракона 
 В верхнем правом углу расположенна голова дракона. Она обернута зеленью и цветами.
@@ -82,13 +79,15 @@ https://www.artstation.com/artwork/DAGOJ0
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/detail_2.jpg" width="400"/>  
 
+Оформляем также боковой переплет орнаментом.   
+Так же, можно добавить орнаменты на рамку и книжку.  
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/ornament.jpg" width="400"/>   
+
 #### Цветы   
 Цветы и зелень, не должны перекрывать внутреннюю область рамки. Цветы могут быть по всей рамке и книжке.
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/full.jpg" width="400"/>   
 
 **Референсы цветов.**   
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/dragon.jpg" width="400"/>  
-
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/flowers_reference_4.jpg" width="400"/>   
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/flowers_reference_2.jpg" width="400"/> 
