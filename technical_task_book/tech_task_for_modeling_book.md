@@ -71,6 +71,10 @@ https://www.artstation.com/artwork/DAGOJ0
  <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/color_2.jpg" width="400"/>   
  <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/color_3.jpg" width="400"/>   
 
+Оформляем также боковой переплет орнаментом.   
+Так же, можно добавить орнаменты на рамку и книжку.  
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/ornament.jpg" width="400"/>   
+
 #### Голова дракона 
 В верхнем правом углу расположенна голова дракона. Она обернута зеленью и цветами.
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/dragon.jpg" width="400"/> 
@@ -78,10 +82,6 @@ https://www.artstation.com/artwork/DAGOJ0
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/dragon_1.jpg" width="400"/> 
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/detail_2.jpg" width="400"/>  
-
-Оформляем также боковой переплет орнаментом.   
-Так же, можно добавить орнаменты на рамку и книжку.  
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/ornament.jpg" width="400"/>   
 
 #### Цветы   
 Цветы и зелень, не должны перекрывать внутреннюю область рамки, они могут быть по всей рамке и книжке.
