@@ -84,9 +84,7 @@ https://www.artstation.com/artwork/DAGOJ0
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/ornament.jpg" width="400"/>   
 
 #### Цветы   
-Цветы и зелень, не должны перекрывать внутреннюю область рамки. Цветы могут быть по всей рамке и книжке.
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/full.jpg" width="400"/>   
-
+Цветы и зелень, не должны перекрывать внутреннюю область рамки, они могут быть по всей рамке и книжке.
 **Референсы цветов.**   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/flowers_reference_4.jpg" width="400"/>   
 
