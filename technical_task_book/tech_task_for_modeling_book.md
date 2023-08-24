@@ -58,15 +58,13 @@ https://www.artstation.com/artwork/DAGOJ0
 
 #### Структура      
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/reference_struct.jpg" width="400"/>
+Заменяем круглую рамку на книжке, на ту что слева.      
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/merge_book_frame.jpg" width="400"/>   
 
 #### Рамка
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/full.jpg" width="400"/>   
 
-Рамку делаем более детализированной, что бы она содержала больше деталей, так как книжка будет довольно объемная по высоте и ширине. Примеры орнамента, головы дракона и степени детализации и стилизации ниже.     
-
-#### Книжка    
-Заменяем круглую рамку на книжке, на ту что слева.      
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/merge_book_frame.jpg" width="400"/>   
+Рамку делаем более детализированной, что бы она содержала больше деталей, так как книжка будет довольно объемная по высоте и ширине.       
 
 **Текстура, стиль, цвета, под рамку и книжку.**  
  <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/color_2.jpg" width="400"/>   
