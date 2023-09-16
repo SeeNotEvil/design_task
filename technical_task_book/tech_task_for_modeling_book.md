@@ -31,5 +31,5 @@ https://www.artstation.com/artwork/DAGOJ0
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/seenotevil92_ancient_book_fantasy_cover_book_46dd95ba-8583-4ef5-a847-8979e1fb7e9c.png" width="400"/>   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/Screenshot_20230915_020038_Gallery.jpg" width="400"/>
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/photo_2023-09-10_11-54-03.jpg" width="400"/>
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/ Screenshot_20230917_012909_Chrome.jpg" width="400"/>
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/Screenshot_20230917_012909_Chrome.jpg" width="400"/>
 https://www.shadertoy.com/view/3l23Rh
