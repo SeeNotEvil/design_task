@@ -26,7 +26,7 @@ https://www.artstation.com/artwork/DAGOJ0
 
 
 ### TODO
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/photo_2023-09-10_11-54-04.jpg" width="400"/>   
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/seenotevil92_fantasy_photo_frame_magic_book_cover_book_ffea3103-2024-42cc-bea9-3ff14a02c960.png" width="400"/>   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/photo_2023-09-10_11-54-04-2.jpg" width="400"/>   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/photo_2023-09-10_11-54-05.jpg" width="400"/>   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/photo_2023-09-10_11-54-05-2.jpg" width="400"/>
