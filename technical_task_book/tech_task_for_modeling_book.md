@@ -32,6 +32,7 @@ https://www.artstation.com/artwork/DAGOJ0
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/Screenshot_20230915_020038_Gallery.jpg" width="400"/>
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/photo_2023-09-10_11-54-03.jpg" width="400"/>
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/Screenshot_20230917_012909_Chrome.jpg" width="400"/>
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/seen_ffea3103.png" width="400"/>
 
 https://www.shadertoy.com/view/3l23Rh   
 
@@ -39,3 +40,10 @@ https://youtu.be/IoHGKHf-urI?feature=shared
 
 https://youtu.be/wz91ebWLNsM?feature=shared   
 
+https://www.youtube.com/watch?v=d8V16BFxGNs&list=WL&index=57&pp=gAQBiAQB
+
+https://www.youtube.com/watch?v=yUXSVvGFomg&list=WL&index=59&pp=gAQBiAQB
+
+https://www.youtube.com/watch?v=wvOPkD3VKmg&list=WL&index=60&pp=gAQBiAQB
+
+https://www.youtube.com/watch?v=_IDBfQnttiE&list=WL&index=54&pp=gAQBiAQB
