@@ -61,6 +61,6 @@ https://www.youtube.com/watch?v=wvOPkD3VKmg&list=WL&index=60&pp=gAQBiAQB
 https://www.youtube.com/watch?v=_IDBfQnttiE&list=WL&index=54&pp=gAQBiAQB
 
 ## Доп формы и подсветка
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/8094c6007c09cd3123736ff00a0e6cbe.png" width="400"/>
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/8094c6007c09cd3123736ff00a0e6cbe.jpg" width="400"/>
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/photo_2023-09-24_11-42-09.jpg" width="400"/>
