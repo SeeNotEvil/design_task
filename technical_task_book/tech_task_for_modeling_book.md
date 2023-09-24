@@ -35,9 +35,9 @@ https://www.artstation.com/artwork/DAGOJ0
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/seenotevil92_fantasy_photo_frame_magic_book_cover_book_ffea3103-2024-42cc-bea9-3ff14a02c960.png" width="400"/>   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/seenotevil92_fantasy_photo_frame_magic_book_cover_book_1a9cd93c-f49b-4de2-803a-3a35bd1b203d-1.png" width="400"/>   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/seenotevil92_ancient_book_fantasy_cover_book_46dd95ba-8583-4ef5-a847-8979e1fb7e9c.png" width="400"/>  
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/235-244-269_percent.jpg" width="400"/>  
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/235-244-269_percent_2.jpg" width="400"/>  
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/235-244-269_percent_3.jpg" width="400"/>  
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/214-235-244-269_percent.jpg" width="400"/>  
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/214-235-244-269_percent_2.jpg" width="400"/>  
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/214-235-244-269_percent_3.jpg" width="400"/>  
 ## Дым, облака   
 
 https://www.shadertoy.com/view/3l23Rh   
