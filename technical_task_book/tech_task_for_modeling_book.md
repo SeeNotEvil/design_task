@@ -47,9 +47,11 @@ https://www.shadertoy.com/view/3l23Rh
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/Screenshot_20230917_012909_Chrome.jpg" width="400"/>
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/seen_ffea3103.png" width="400"/>
 
-https://www.shadertoy.com/view/3l23Rh   
 
-https://youtu.be/IoHGKHf-urI?feature=shared   
+
+** https://www.shadertoy.com/view/3l23Rh **   
+** https://www.youtube.com/watch?v=ygZ8K8rl91Y&list=LL&index=18**   
+** https://youtu.be/IoHGKHf-urI?feature=shared **   
 
 https://youtu.be/wz91ebWLNsM?feature=shared   
 
