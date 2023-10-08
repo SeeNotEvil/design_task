@@ -43,12 +43,10 @@ https://www.artstation.com/artwork/DAGOJ0
 
 ### Книжка   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/seenotevil92_fantasy_photo_frame_magic_book_cover_book_ffea3103-2024-42cc-bea9-3ff14a02c960.png" width="400"/>   
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/seenotevil92_ancient_book_fantasy_cover_book_46dd95ba-8583-4ef5-a847-8979e1fb7e9c.png" width="400"/>   
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/book.jpg" width="400"/>   
-
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/seenotevil92_ancient_book_fantasy_cover_book_46dd95ba-8583-4ef5-a847-8979e1fb7e9c.png" width="400"/>     
  
 ## Цвет
-По цвету как тут, но можно темнее.
+По цвету как тут, но можно темнее.   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/seenotevil92_ancient_book_fantasy_cover_book_46dd95ba-8583-4ef5-a847-8979e1fb7e9c.png" width="400"/>   
 
 
