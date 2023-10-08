@@ -32,6 +32,7 @@ https://www.artstation.com/artwork/DAGOJ0
 2 - Внутренняя область, внутри рамки - Высота 15.3 см, Ширина 11.2 см.  
 3 - Щерина книжки - 2-3 см.   
 4 - Ширина обложки - по своему усмотрению.    
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/structure.png" width="400"/>  
 
 ## Референсы книжки   
 ### Обложка   
