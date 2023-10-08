@@ -19,14 +19,14 @@ https://www.artstation.com/artwork/PX2gWL
 https://www.artstation.com/artwork/DAGOJ0   
  
 ## Структура и размеры   
-#### Структура   
+### Структура   
 Схематично книжка состоит из следующих частей.   
 1 - Обложка.   
 2 - Внутренняя область, внутри рамки.   
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/structure.png" width="400"/>   
 
-#### Размеры
+### Размеры
 Размеры задаются в метрической системе.   
 1 - Обложка - Высота от 16.5 см. Ширина от 13 см.   
 2 - Внутренняя область, внутри рамки - Высота 15.3 см, Ширина 11.2 см.  
