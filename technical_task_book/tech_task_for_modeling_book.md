@@ -20,9 +20,9 @@ https://www.artstation.com/artwork/DAGOJ0
  
 ## Структура и размеры   
 ### Структура   
-Схематично книжка состоит из следующих частей.   
-1 - Обложка.   
-2 - Внутренняя область, внутри рамки.   
+Схематично книжка состоит из следующих частей.  
+1 - Внутренняя область, внутри рамки.   
+2 - Обложка.   
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/scheme" width="400"/>   
 
