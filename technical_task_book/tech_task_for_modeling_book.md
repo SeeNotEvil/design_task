@@ -36,7 +36,7 @@ https://www.artstation.com/artwork/DAGOJ0
 ## Референсы книжки   
 ### Обложка   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/photo_2023-10-08_12-35-53.jpg" width="400"/>   
-<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/79percent.png" width="400"/>   
+<img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/79percent" width="400"/>   
 
 Обложка должна быть овальной - примерно как на картинке.   
 
