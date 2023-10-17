@@ -21,7 +21,7 @@ https://www.artstation.com/artwork/DAGOJ0
 ## Структура и размеры   
 ### Структура   
 Схематично книжка состоит из следующих частей.  
-1 - Внутренняя область, внутри рамки.   
+1 - Внутренняя область, внутри рамки.  
 2 - Обложка.   
 
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/scheme" width="400"/>   
@@ -30,7 +30,7 @@ https://www.artstation.com/artwork/DAGOJ0
 Размеры задаются в метрической системе.   
 1 - Обложка - Высота от 17.5 см. Ширина от 14 см.   
 2 - Внутренняя область, внутри рамки - Высота 16.2 см, Ширина 12.2 см.  
-3 - Шерина книжки - 2-3 см.   
+3 - Ширина книжки - 1-2.5 см.   
 4 - Ширина обложки - по своему усмотрению.    
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/photo_2023-10-16_12-15-14.jpg" width="400"/>  
 ## Референсы книжки   
@@ -38,14 +38,15 @@ https://www.artstation.com/artwork/DAGOJ0
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/photo_2023-10-08_12-35-53.jpg" width="400"/>   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/79percent" width="400"/>   
 
-Обложка должна быть овальной - примерно как на картинке.   
+Рамка на обложке, должна быть овальной - примерно как на картинке. 
+Она может немного уходить вглубь обложки, но не сильно в пределах 2-4 мм.
 
 ### Книжка   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/seenotevil92_fantasy_photo_frame_magic_book_cover_book_ffea3103-2024-42cc-bea9-3ff14a02c960.png" width="400"/>   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/seenotevil92_ancient_book_fantasy_cover_book_46dd95ba-8583-4ef5-a847-8979e1fb7e9c.png" width="400"/>     
  
 ## Цвет
-По цвету как тут, но можно темнее.   
+По цвету как тут, но хотелось бы темнее.   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/seenotevil92_ancient_book_fantasy_cover_book_46dd95ba-8583-4ef5-a847-8979e1fb7e9c.png" width="400"/>   
 
 
