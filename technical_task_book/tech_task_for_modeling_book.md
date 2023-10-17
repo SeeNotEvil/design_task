@@ -39,7 +39,7 @@ https://www.artstation.com/artwork/DAGOJ0
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/79percent" width="400"/>   
 
 Рамка на обложке, должна быть овальной - примерно как на картинке. 
-Она может немного уходить вглубь обложки, но не сильно в пределах 2-4 мм.
+Внутренняя область, может немного уходить вглубь обложки, но не сильно в пределах 2-4 мм.
 
 ### Книжка   
 <img src="https://github.com/SeeNotEvil/design_task/blob/main/technical_task_book/seenotevil92_fantasy_photo_frame_magic_book_cover_book_ffea3103-2024-42cc-bea9-3ff14a02c960.png" width="400"/>   
